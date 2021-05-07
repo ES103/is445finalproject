@@ -1,0 +1,911 @@
+﻿Country,WHOREGION,FLUREGION,Year,Week,SDATE,EDATE,SPEC_RECEIVED_NB,SPEC_PROCESSED_NB,AH1,AH1N12009,AH3,AH5,ANOTSUBTYPED,INF_A,BYAMAGATA,BVICTORIA,BNOTDETERMINED,INF_B,ALL_INF,ALL_INF2,TITLE
+United States of America,Region of the Americas of WHO,North America,2015,1,2014/12/29,2015/1/4,41579,41579,0,10,5292,0,5695,10997,0,0,409,409,11406,,Widespread Outbreak
+United States of America,Region of the Americas of WHO,North America,2015,2,2015/1/5,2015/1/11,38493,38493,0,10,4901,0,3955,8866,0,0,372,372,9238,,Widespread Outbreak
+United States of America,Region of the Americas of WHO,North America,2015,3,2015/1/12,2015/1/18,35593,35593,0,8,4584,0,3580,8172,0,0,473,473,8645,,Widespread Outbreak
+United States of America,Region of the Americas of WHO,North America,2015,4,2015/1/19,2015/1/25,34191,34191,0,4,3917,0,3513,7435,0,0,548,548,7983,,Widespread Outbreak
+United States of America,Region of the Americas of WHO,North America,2015,5,2015/1/26,2015/2/1,32001,32001,0,10,3475,0,2789,6274,0,0,606,606,6880,,Widespread Outbreak
+United States of America,Region of the Americas of WHO,North America,2015,6,2015/2/2,2015/2/8,29578,29578,0,10,2719,0,2170,4899,0,0,723,723,5622,,Widespread Outbreak
+United States of America,Region of the Americas of WHO,North America,2015,7,2015/2/9,2015/2/15,26986,26986,0,7,1744,0,1575,3326,0,0,869,869,4195,,Widespread Outbreak
+United States of America,Region of the Americas of WHO,North America,2015,8,2015/2/16,2015/2/22,24292,24292,0,10,1242,0,1108,2360,0,0,1009,1009,3369,,Widespread Outbreak
+United States of America,Region of the Americas of WHO,North America,2015,9,2015/2/23,2015/3/1,22293,22293,0,18,954,0,740,1712,0,0,1127,1127,2839,,Widespread Outbreak
+United States of America,Region of the Americas of WHO,North America,2015,10,2015/3/2,2015/3/8,20419,20419,0,5,774,0,557,1336,0,0,1352,1352,2688,,Widespread Outbreak
+United States of America,Region of the Americas of WHO,North America,2015,11,2015/3/9,2015/3/15,19843,19843,0,7,458,0,405,870,0,0,1654,1654,2524,,Widespread Outbreak
+United States of America,Region of the Americas of WHO,North America,2015,12,2015/3/16,2015/3/22,18418,18418,0,2,340,0,302,644,0,0,1564,1564,2208,,Regional Outbreak
+United States of America,Region of the Americas of WHO,North America,2015,13,2015/3/23,2015/3/29,16980,16980,0,7,227,0,197,431,0,0,1479,1479,1910,,Regional Outbreak
+United States of America,Region of the Americas of WHO,North America,2015,14,2015/3/30,2015/4/5,15123,15123,0,4,168,0,119,291,0,0,1375,1375,1666,,Regional Outbreak
+United States of America,Region of the Americas of WHO,North America,2015,15,2015/4/6,2015/4/12,14741,14741,0,7,87,0,107,201,0,0,1271,1271,1472,,Local Outbreak
+United States of America,Region of the Americas of WHO,North America,2015,16,2015/4/13,2015/4/19,13389,13389,0,13,66,0,79,158,0,0,969,969,1127,,Sporadic
+United States of America,Region of the Americas of WHO,North America,2015,17,2015/4/20,2015/4/26,11872,11872,0,1,48,0,40,89,0,0,683,683,772,,Local Outbreak
+United States of America,Region of the Americas of WHO,North America,2015,18,2015/4/27,2015/5/3,10769,10769,0,4,26,0,36,67,0,0,543,543,610,,Sporadic
+United States of America,Region of the Americas of WHO,North America,2015,19,2015/5/4,2015/5/10,9784,9784,0,2,12,0,19,33,0,0,494,494,527,,Sporadic
+United States of America,Region of the Americas of WHO,North America,2015,20,2015/5/11,2015/5/17,9188,9188,0,2,16,0,26,44,0,0,340,340,384,,Sporadic
+United States of America,Region of the Americas of WHO,North America,2015,21,2015/5/18,2015/5/24,8412,8412,0,0,21,0,19,40,0,0,267,267,307,,Sporadic
+United States of America,Region of the Americas of WHO,North America,2015,22,2015/5/25,2015/5/31,7747,7747,0,1,20,0,21,42,0,0,184,184,226,,Sporadic
+United States of America,Region of the Americas of WHO,North America,2015,23,2015/6/1,2015/6/7,6991,6991,0,0,20,0,22,42,0,0,151,151,193,,Sporadic
+United States of America,Region of the Americas of WHO,North America,2015,24,2015/6/8,2015/6/14,6724,6724,0,1,20,0,28,49,0,0,129,129,178,,Sporadic
+United States of America,Region of the Americas of WHO,North America,2015,25,2015/6/15,2015/6/21,6132,6132,0,2,50,0,22,74,0,0,78,78,152,,Sporadic
+United States of America,Region of the Americas of WHO,North America,2015,26,2015/6/22,2015/6/28,5557,5557,0,0,51,0,24,75,0,0,46,46,121,,Sporadic
+United States of America,Region of the Americas of WHO,North America,2015,27,2015/6/29,2015/7/5,5230,5230,0,2,59,0,35,96,0,0,33,33,129,,Sporadic
+United States of America,Region of the Americas of WHO,North America,2015,28,2015/7/6,2015/7/12,5253,5253,0,4,40,0,18,63,0,0,36,36,99,,Sporadic
+United States of America,Region of the Americas of WHO,North America,2015,29,2015/7/13,2015/7/19,5034,5034,0,3,35,0,11,49,0,0,37,37,86,,Sporadic
+United States of America,Region of the Americas of WHO,North America,2015,30,2015/7/20,2015/7/26,4802,4802,0,4,34,0,19,57,0,0,23,23,80,,Sporadic
+United States of America,Region of the Americas of WHO,North America,2015,31,2015/7/27,2015/8/2,4785,4785,0,0,44,0,23,67,0,0,10,10,77,,Sporadic
+United States of America,Region of the Americas of WHO,North America,2015,32,2015/8/3,2015/8/9,4781,4781,0,4,50,0,20,74,0,0,17,17,91,,Sporadic
+United States of America,Region of the Americas of WHO,North America,2015,33,2015/8/10,2015/8/16,4857,4857,0,3,33,0,30,66,0,0,13,13,79,,Sporadic
+United States of America,Region of the Americas of WHO,North America,2015,34,2015/8/17,2015/8/23,5118,5118,0,2,53,0,25,80,0,0,16,16,96,,Sporadic
+United States of America,Region of the Americas of WHO,North America,2015,35,2015/8/24,2015/8/30,5322,5322,0,3,42,0,33,78,0,0,20,20,98,,Sporadic
+United States of America,Region of the Americas of WHO,North America,2015,36,2015/8/31,2015/9/6,5979,5979,0,3,63,0,41,107,0,0,27,27,134,,Sporadic
+United States of America,Region of the Americas of WHO,North America,2015,37,2015/9/7,2015/9/13,6493,6493,0,1,70,0,32,103,0,0,28,28,131,,Sporadic
+United States of America,Region of the Americas of WHO,North America,2015,38,2015/9/14,2015/9/20,6854,6854,0,3,76,0,55,134,0,0,33,33,167,,Sporadic
+United States of America,Region of the Americas of WHO,North America,2015,39,2015/9/21,2015/9/27,7253,7253,0,0,27,0,55,82,0,0,33,33,115,,Sporadic
+United States of America,Region of the Americas of WHO,North America,2015,40,2015/9/28,2015/10/4,6354,6354,0,6,17,0,50,73,0,0,32,32,105,,Sporadic
+United States of America,Region of the Americas of WHO,North America,2015,41,2015/10/5,2015/10/11,13168,13168,0,4,65,,86,155,1,0,53,54,209,12959,Sporadic
+United States of America,Region of the Americas of WHO,North America,2015,42,2015/10/12,2015/10/18,14263,14263,0,5,41,,118,164,0,3,61,64,228,14035,Sporadic
+United States of America,Region of the Americas of WHO,North America,2015,43,2015/10/19,2015/10/25,14639,14639,0,10,50,,98,158,2,3,60,65,223,14416,Sporadic
+United States of America,Region of the Americas of WHO,North America,2015,44,2015/10/26,2015/11/1,14781,14781,0,9,31,,102,142,4,1,61,66,208,14573,Sporadic
+United States of America,Region of the Americas of WHO,North America,2015,45,2015/11/2,2015/11/8,16152,16152,0,4,23,,101,128,4,1,77,82,210,15942,Sporadic
+United States of America,Region of the Americas of WHO,North America,2015,46,2015/11/9,2015/11/15,16441,16441,0,11,34,,123,168,2,4,96,102,270,16171,Local Outbreak
+United States of America,Region of the Americas of WHO,North America,2015,47,2015/11/16,2015/11/22,16708,16708,0,17,42,,85,144,4,0,102,106,250,16458,No Report
+United States of America,Region of the Americas of WHO,North America,2015,48,2015/11/23,2015/11/29,16391,16391,0,17,24,,119,160,9,3,96,108,268,16123,No Report
+United States of America,Region of the Americas of WHO,North America,2015,49,2015/11/30,2015/12/6,17751,17751,0,27,36,,148,211,12,3,90,105,316,17435,No Report
+United States of America,Region of the Americas of WHO,North America,2015,50,2015/12/7,2015/12/13,18191,18191,0,38,37,,143,218,11,2,117,130,348,17843,No Report
+United States of America,Region of the Americas of WHO,North America,2015,51,2015/12/14,2015/12/20,18833,18833,0,69,39,,244,352,19,4,202,225,577,18256,No Report
+United States of America,Region of the Americas of WHO,North America,2015,52,2015/12/21,2015/12/27,18123,18123,0,89,33,,221,343,28,3,178,209,552,17571,No Report
+United States of America,Region of the Americas of WHO,North America,2015,53,2015/12/28,2016/1/3,20350,20350,0,146,56,,265,467,35,9,213,257,724,19626,No Report
+United States of America,Region of the Americas of WHO,North America,2016,1,2016/1/4,2016/1/10,21627,21627,0,232,68,,398,698,52,12,198,262,960,20667,No Report
+United States of America,Region of the Americas of WHO,North America,2016,2,2016/1/11,2016/1/17,20437,20437,0,256,89,,576,921,60,23,271,354,1275,19162,No Report
+United States of America,Region of the Americas of WHO,North America,2016,3,2016/1/18,2016/1/24,20744,20744,0,361,100,,729,1190,83,25,360,468,1658,19086,No Report
+United States of America,Region of the Americas of WHO,North America,2016,4,2016/1/25,2016/1/31,23359,23359,0,526,160,,1050,1736,104,28,509,641,2377,20982,No Report
+United States of America,Region of the Americas of WHO,North America,2016,5,2016/2/1,2016/2/7,24988,24988,0,672,171,,1585,2428,143,62,685,890,3318,21670,No Report
+United States of America,Region of the Americas of WHO,North America,2016,6,2016/2/8,2016/2/14,28136,28136,0,891,236,,2282,3409,206,71,1025,1302,4711,23425,No Report
+United States of America,Region of the Americas of WHO,North America,2016,7,2016/2/15,2016/2/21,31106,31106,0,1340,256,,3154,4750,309,103,1271,1683,6433,24673,No Report
+United States of America,Region of the Americas of WHO,North America,2016,8,2016/2/22,2016/2/28,35517,35517,0,1672,232,,4438,6342,383,156,1491,2030,8372,27145,No Report
+United States of America,Region of the Americas of WHO,North America,2016,9,2016/2/29,2016/3/6,38567,38567,0,1886,313,,5555,7754,347,143,1840,2330,10084,28483,No Report
+United States of America,Region of the Americas of WHO,North America,2016,10,2016/3/7,2016/3/13,41876,41876,0,2173,313,,6726,9212,333,162,2264,2759,11971,29905,No Report
+United States of America,Region of the Americas of WHO,North America,2016,11,2016/3/14,2016/3/20,38344,38344,0,1514,213,,5071,6798,278,154,1975,2407,9205,29139,No Report
+United States of America,Region of the Americas of WHO,North America,2016,12,2016/3/21,2016/3/27,33518,33518,0,1058,198,,3938,5194,207,117,1837,2161,7355,26163,No Report
+United States of America,Region of the Americas of WHO,North America,2016,13,2016/3/28,2016/4/3,30674,30674,0,807,180,,2998,3985,211,127,1722,2060,6045,24629,No Report
+United States of America,Region of the Americas of WHO,North America,2016,14,2016/4/4,2016/4/10,26382,26382,0,534,135,,2004,2673,163,106,1563,1832,4505,21877,No Report
+United States of America,Region of the Americas of WHO,North America,2016,15,2016/4/11,2016/4/17,23773,23773,0,383,117,,1522,2022,162,88,1512,1762,3784,19989,No Report
+United States of America,Region of the Americas of WHO,North America,2016,16,2016/4/18,2016/4/24,21676,21676,0,276,127,,1139,1542,163,86,1487,1736,3278,18398,No Report
+United States of America,Region of the Americas of WHO,North America,2016,17,2016/4/25,2016/5/1,19461,19461,0,167,98,,706,971,119,78,1237,1434,2405,17056,No Report
+United States of America,Region of the Americas of WHO,North America,2016,18,2016/5/2,2016/5/8,16505,16505,0,77,59,,429,565,82,53,902,1037,1602,14903,No Report
+United States of America,Region of the Americas of WHO,North America,2016,19,2016/5/9,2016/5/15,15109,15109,0,53,62,,282,397,71,36,715,822,1219,13890,No Report
+United States of America,Region of the Americas of WHO,North America,2016,20,2016/5/16,2016/5/22,13361,13361,0,35,77,,228,340,50,14,549,613,953,12408,No Report
+United States of America,Region of the Americas of WHO,North America,2016,21,2016/5/23,2016/5/29,12230,12230,0,16,44,,141,201,32,22,438,492,693,11537,No Report
+United States of America,Region of the Americas of WHO,North America,2016,22,2016/5/30,2016/6/5,10549,10549,0,4,13,,83,100,35,14,250,299,399,10150,No Report
+United States of America,Region of the Americas of WHO,North America,2016,23,2016/6/6,2016/6/12,9636,9636,0,5,15,,71,91,17,6,221,244,335,9301,No Report
+United States of America,Region of the Americas of WHO,North America,2016,24,2016/6/13,2016/6/19,8788,8788,0,7,18,,59,84,10,6,100,116,200,8588,No Report
+United States of America,Region of the Americas of WHO,North America,2016,25,2016/6/20,2016/6/26,7737,7737,0,5,22,,44,71,11,9,93,113,184,7553,No Report
+United States of America,Region of the Americas of WHO,North America,2016,26,2016/6/27,2016/7/3,6623,6623,0,3,18,,29,50,9,6,55,70,120,6503,No Report
+United States of America,Region of the Americas of WHO,North America,2016,27,2016/7/4,2016/7/10,6249,6249,0,2,18,,24,44,9,5,35,49,93,6156,No Report
+United States of America,Region of the Americas of WHO,North America,2016,28,2016/7/11,2016/7/17,6619,6619,0,1,21,,25,47,11,2,34,47,94,6525,No Report
+United States of America,Region of the Americas of WHO,North America,2016,29,2016/7/18,2016/7/24,6185,6185,0,2,18,,25,45,10,0,30,40,85,6100,No Report
+United States of America,Region of the Americas of WHO,North America,2016,30,2016/7/25,2016/7/31,6054,6054,0,2,38,,20,60,10,2,27,39,99,5954,No Report
+United States of America,Region of the Americas of WHO,North America,2016,31,2016/8/1,2016/8/7,6026,6026,0,1,45,,35,81,4,1,20,25,106,5917,No Report
+United States of America,Region of the Americas of WHO,North America,2016,32,2016/8/8,2016/8/14,6124,6124,0,6,28,,22,56,12,3,31,46,102,6012,No Report
+United States of America,Region of the Americas of WHO,North America,2016,33,2016/8/15,2016/8/21,6350,6350,0,1,29,,27,57,7,1,24,32,89,6257,No Report
+United States of America,Region of the Americas of WHO,North America,2016,34,2016/8/22,2016/8/28,6628,6628,0,5,28,,63,96,6,2,27,35,131,6497,No Report
+United States of America,Region of the Americas of WHO,North America,2016,35,2016/8/29,2016/9/4,7501,7501,0,7,33,,78,118,2,4,46,52,170,7331,No Report
+United States of America,Region of the Americas of WHO,North America,2016,36,2016/9/5,2016/9/11,8132,8132,0,3,45,,57,105,3,1,62,66,171,7961,No Report
+United States of America,Region of the Americas of WHO,North America,2016,37,2016/9/12,2016/9/18,9280,9280,0,8,55,,76,139,6,4,68,78,217,9063,No Report
+United States of America,Region of the Americas of WHO,North America,2016,38,2016/9/19,2016/9/25,10040,10040,0,6,77,,97,180,5,3,75,83,263,9777,No Report
+United States of America,Region of the Americas of WHO,North America,2016,39,2016/9/26,2016/10/2,11292,11292,0,5,73,,107,185,0,11,88,99,284,11008,No Report
+United States of America,Region of the Americas of WHO,North America,2016,40,2016/10/3,2016/10/9,14278,14278,0,9,87,,120,216,4,5,91,100,316,13962,No Report
+United States of America,Region of the Americas of WHO,North America,2016,41,2016/10/10,2016/10/16,15023,15023,0,11,81,,108,200,6,7,86,99,299,14724,No Report
+United States of America,Region of the Americas of WHO,North America,2016,42,2016/10/17,2016/10/23,16250,16250,0,12,134,,117,263,10,8,98,116,379,15871,No Report
+United States of America,Region of the Americas of WHO,North America,2016,43,2016/10/24,2016/10/30,16480,16480,0,13,130,,144,287,3,3,94,100,387,16093,No Report
+United States of America,Region of the Americas of WHO,North America,2016,44,2016/10/31,2016/11/6,17948,17948,0,12,122,,204,338,7,10,121,138,476,17472,No Report
+United States of America,Region of the Americas of WHO,North America,2016,45,2016/11/7,2016/11/13,19086,19086,0,5,155,,272,432,1,6,126,133,565,18521,No Report
+United States of America,Region of the Americas of WHO,North America,2016,46,2016/11/14,2016/11/20,20411,20411,0,9,189,,349,547,1,7,157,165,712,19699,No Report
+United States of America,Region of the Americas of WHO,North America,2016,47,2016/11/21,2016/11/27,19618,19618,0,5,164,,465,634,3,4,179,186,820,18798,No Report
+United States of America,Region of the Americas of WHO,North America,2016,48,2016/11/28,2016/12/4,23255,23255,0,13,318,,543,874,5,17,201,223,1097,22158,No Report
+United States of America,Region of the Americas of WHO,North America,2016,49,2016/12/5,2016/12/11,22444,22444,0,14,479,,699,1192,7,20,183,210,1402,21042,No Report
+United States of America,Region of the Americas of WHO,North America,2016,50,2016/12/12,2016/12/18,25720,25720,0,18,750,,1368,2136,18,27,226,271,2407,23313,No Report
+United States of America,Region of the Americas of WHO,North America,2016,51,2016/12/19,2016/12/25,29439,29439,0,29,1016,,2574,3619,28,38,357,423,4042,25397,No Report
+United States of America,Region of the Americas of WHO,North America,2016,52,2016/12/26,2017/1/1,36560,36560,0,32,1676,,4301,6009,37,59,401,497,6506,30054,No Report
+United States of America,Region of the Americas of WHO,North America,2017,1,2017/1/2,2017/1/8,38960,38960,0,53,2067,,4301,6421,60,47,405,512,6933,32027,No Report
+United States of America,Region of the Americas of WHO,North America,2017,2,2017/1/9,2017/1/15,39546,39546,0,49,2210,,4965,7224,76,49,501,626,7850,31696,No Report
+United States of America,Region of the Americas of WHO,North America,2017,3,2017/1/16,2017/1/22,41010,41010,0,57,2253,,6086,8396,104,69,681,854,9250,31760,No Report
+United States of America,Region of the Americas of WHO,North America,2017,4,2017/1/23,2017/1/29,42620,42620,0,47,2431,,6283,8761,123,71,827,1021,9782,32838,No Report
+United States of America,Region of the Americas of WHO,North America,2017,5,2017/1/30,2017/2/5,46521,46521,0,51,2596,,7809,10456,182,96,1147,1425,11881,34640,No Report
+United States of America,Region of the Americas of WHO,North America,2017,6,2017/2/6,2017/2/12,53516,53516,0,71,2975,,9725,12771,240,126,1937,2303,15074,38442,No Report
+United States of America,Region of the Americas of WHO,North America,2017,7,2017/2/13,2017/2/19,54691,54691,0,68,2617,,9563,12248,300,152,2656,3108,15356,39335,No Report
+United States of America,Region of the Americas of WHO,North America,2017,8,2017/2/20,2017/2/26,52446,52446,0,87,2364,,8775,11226,357,159,3041,3557,14783,37663,No Report
+United States of America,Region of the Americas of WHO,North America,2017,9,2017/2/27,2017/3/5,44426,44426,0,54,1492,,5618,7164,358,149,2491,2998,10162,34264,No Report
+United States of America,Region of the Americas of WHO,North America,2017,10,2017/3/6,2017/3/12,42112,42112,0,50,1256,,4647,5953,389,138,2892,3419,9372,32740,No Report
+United States of America,Region of the Americas of WHO,North America,2017,11,2017/3/13,2017/3/19,39836,39836,0,28,909,,3806,4743,440,141,3295,3876,8619,31217,No Report
+United States of America,Region of the Americas of WHO,North America,2017,12,2017/3/20,2017/3/26,38400,38400,0,31,843,,3225,4099,523,193,3839,4555,8654,29746,No Report
+United States of America,Region of the Americas of WHO,North America,2017,13,2017/3/27,2017/4/2,35530,35530,0,27,655,,2348,3030,576,143,3876,4595,7625,27905,No Report
+United States of America,Region of the Americas of WHO,North America,2017,14,2017/4/3,2017/4/9,31021,31021,0,17,374,,1447,1838,450,117,3119,3686,5524,25497,No Report
+United States of America,Region of the Americas of WHO,North America,2017,15,2017/4/10,2017/4/16,26720,26720,0,5,221,,903,1129,383,66,2364,2813,3942,22778,No Report
+United States of America,Region of the Americas of WHO,North America,2017,16,2017/4/17,2017/4/23,23640,23640,0,11,144,,569,724,250,54,1656,1960,2684,20956,No Report
+United States of America,Region of the Americas of WHO,North America,2017,17,2017/4/24,2017/4/30,20099,20099,0,7,133,,328,468,181,51,995,1227,1695,18404,No Report
+United States of America,Region of the Americas of WHO,North America,2017,18,2017/5/1,2017/5/7,17267,17267,0,5,83,,254,342,131,31,749,911,1253,16014,No Report
+United States of America,Region of the Americas of WHO,North America,2017,19,2017/5/8,2017/5/14,16191,16191,0,3,97,,234,334,117,38,620,775,1109,15082,No Report
+United States of America,Region of the Americas of WHO,North America,2017,20,2017/5/15,2017/5/21,15080,15080,0,5,63,,217,285,114,33,512,659,944,14136,No Report
+United States of America,Region of the Americas of WHO,North America,2017,21,2017/5/22,2017/5/28,13461,13461,0,6,41,,180,227,80,26,401,507,734,12727,No Report
+United States of America,Region of the Americas of WHO,North America,2017,22,2017/5/29,2017/6/4,12194,12194,0,1,39,,171,211,60,51,331,442,653,11541,No Report
+United States of America,Region of the Americas of WHO,North America,2017,23,2017/6/5,2017/6/11,11119,11119,0,5,33,,136,174,63,22,244,329,503,10616,No Report
+United States of America,Region of the Americas of WHO,North America,2017,24,2017/6/12,2017/6/18,9966,9966,0,8,43,,132,183,45,11,171,227,410,9556,No Report
+United States of America,Region of the Americas of WHO,North America,2017,25,2017/6/19,2017/6/25,8843,8843,0,5,40,,107,152,31,11,125,167,319,8524,No Report
+United States of America,Region of the Americas of WHO,North America,2017,26,2017/6/26,2017/7/2,7859,7859,0,5,39,,95,139,21,4,103,128,267,7592,No Report
+United States of America,Region of the Americas of WHO,North America,2017,27,2017/7/3,2017/7/9,7366,7366,0,10,29,,75,114,7,7,83,97,211,7155,No Report
+United States of America,Region of the Americas of WHO,North America,2017,28,2017/7/10,2017/7/16,7741,7741,0,4,31,,92,127,9,5,79,93,220,7519,No Report
+United States of America,Region of the Americas of WHO,North America,2017,29,2017/7/17,2017/7/23,7532,7532,0,8,26,,87,121,7,0,54,61,182,7341,No Report
+United States of America,Region of the Americas of WHO,North America,2017,30,2017/7/24,2017/7/30,7122,7122,0,7,31,,76,114,21,1,53,75,189,6933,No Report
+United States of America,Region of the Americas of WHO,North America,2017,31,2017/7/31,2017/8/6,7110,7110,0,8,41,,96,145,8,0,38,46,191,6914,No Report
+United States of America,Region of the Americas of WHO,North America,2017,32,2017/8/7,2017/8/13,7266,7266,0,6,42,,77,125,20,0,62,82,207,7058,No Report
+United States of America,Region of the Americas of WHO,North America,2017,33,2017/8/14,2017/8/20,7949,7949,0,5,32,,65,102,9,0,41,50,152,7797,No Report
+United States of America,Region of the Americas of WHO,North America,2017,34,2017/8/21,2017/8/27,8570,8570,0,6,54,,82,142,9,1,47,57,199,8371,No Report
+United States of America,Region of the Americas of WHO,North America,2017,35,2017/8/28,2017/9/3,9890,9890,0,18,64,,121,203,0,0,69,69,272,9618,No Report
+United States of America,Region of the Americas of WHO,North America,2017,36,2017/9/4,2017/9/10,10850,10850,0,12,105,,130,247,13,0,71,84,331,10519,No Report
+United States of America,Region of the Americas of WHO,North America,2017,37,2017/9/11,2017/9/17,12321,12321,0,8,109,,148,265,17,2,86,105,370,11951,No Report
+United States of America,Region of the Americas of WHO,North America,2017,38,2017/9/18,2017/9/24,13529,13529,0,2,101,,140,243,18,1,85,104,347,13165,No Report
+United States of America,Region of the Americas of WHO,North America,2017,39,2017/9/25,2017/10/1,14583,14583,0,10,119,,156,285,10,0,80,90,375,14184,No Report
+United States of America,Region of the Americas of WHO,North America,2017,40,2017/10/2,2017/10/8,16573,16573,0,13,123,,233,369,16,0,117,133,502,16070,No Report
+United States of America,Region of the Americas of WHO,North America,2017,41,2017/10/9,2017/10/15,17636,17636,0,14,143,,256,413,13,4,104,121,534,17102,No Report
+United States of America,Region of the Americas of WHO,North America,2017,42,2017/10/16,2017/10/22,19061,19061,0,14,173,,278,465,11,1,112,124,589,18472,No Report
+United States of America,Region of the Americas of WHO,North America,2017,43,2017/10/23,2017/10/29,19864,19864,0,26,180,,364,570,21,1,148,170,740,19124,No Report
+United States of America,Region of the Americas of WHO,North America,2017,44,2017/10/30,2017/11/5,21606,21606,0,24,249,,518,791,36,3,236,275,1066,20540,No Report
+United States of America,Region of the Americas of WHO,North America,2017,45,2017/11/6,2017/11/12,23440,23440,0,29,315,,690,1034,33,4,252,289,1323,22117,No Report
+United States of America,Region of the Americas of WHO,North America,2017,46,2017/11/13,2017/11/19,25670,25670,0,56,405,,941,1402,61,5,351,417,1819,23851,No Report
+United States of America,Region of the Americas of WHO,North America,2017,47,2017/11/20,2017/11/26,25441,25441,0,41,490,,1338,1869,60,5,363,428,2297,23144,No Report
+United States of America,Region of the Americas of WHO,North America,2017,48,2017/11/27,2017/12/3,29582,29582,0,61,787,,1563,2411,108,8,456,572,2983,26598,No Report
+United States of America,Region of the Americas of WHO,North America,2017,49,2017/12/4,2017/12/10,33552,33552,0,72,1055,,2483,3610,103,16,858,977,4587,28965,No Report
+United States of America,Region of the Americas of WHO,North America,2017,50,2017/12/11,2017/12/17,38752,38752,0,137,1515,,4571,6223,174,36,883,1093,7316,31436,No Report
+United States of America,Region of the Americas of WHO,North America,2017,51,2017/12/18,2017/12/24,52824,52824,0,240,2491,,9256,11987,258,39,1776,2073,14060,38764,No Report
+United States of America,Region of the Americas of WHO,North America,2017,52,2017/12/25,2017/12/31,60942,60942,0,279,2984,,12031,15294,372,35,2192,2599,17893,43049,No Report
+United States of America,Region of the Americas of WHO,North America,2018,1,2018/1/1,2018/1/7,67726,67726,0,320,3295,,13057,16672,463,45,2700,3208,19880,47846,No Report
+United States of America,Region of the Americas of WHO,North America,2018,2,2018/1/8,2018/1/14,75195,75195,0,393,3336,,15219,18948,534,42,3409,3985,22933,52262,No Report
+United States of America,Region of the Americas of WHO,North America,2018,3,2018/1/15,2018/1/21,75417,75417,0,406,2727,,14832,17965,536,47,4094,4677,22642,52775,No Report
+United States of America,Region of the Americas of WHO,North America,2018,4,2018/1/22,2018/1/28,87245,87245,0,540,2749,,16672,19961,718,58,5581,6357,26318,60927,No Report
+United States of America,Region of the Americas of WHO,North America,2018,5,2018/1/29,2018/2/4,88743,88743,0,542,2494,,15234,18270,804,91,7221,8116,26386,62357,No Report
+United States of America,Region of the Americas of WHO,North America,2018,6,2018/2/5,2018/2/11,87883,87883,0,544,2040,,14148,16732,931,113,8187,9231,25963,61920,No Report
+United States of America,Region of the Americas of WHO,North America,2018,7,2018/2/12,2018/2/18,80481,80481,0,495,1511,,11395,13401,931,115,8461,9507,22908,57573,No Report
+United States of America,Region of the Americas of WHO,North America,2018,8,2018/2/19,2018/2/25,64580,64580,0,306,1073,,7196,8575,891,116,6645,7652,16227,48353,No Report
+United States of America,Region of the Americas of WHO,North America,2018,9,2018/2/26,2018/3/4,52069,52069,0,246,588,,4417,5251,699,88,4763,5550,10801,41268,No Report
+United States of America,Region of the Americas of WHO,North America,2018,10,2018/3/5,2018/3/11,44035,44035,0,144,411,,2922,3477,646,88,3706,4440,7917,36118,No Report
+United States of America,Region of the Americas of WHO,North America,2018,11,2018/3/12,2018/3/18,39323,39323,0,188,277,,2374,2839,542,70,3558,4170,7009,32314,No Report
+United States of America,Region of the Americas of WHO,North America,2018,12,2018/3/19,2018/3/25,35690,35690,0,120,234,,2033,2387,467,52,3232,3751,6138,29552,No Report
+United States of America,Region of the Americas of WHO,North America,2018,13,2018/3/26,2018/4/1,32633,32633,0,132,220,,1716,2068,455,62,3034,3551,5619,27014,No Report
+United States of America,Region of the Americas of WHO,North America,2018,14,2018/4/2,2018/4/8,29245,29245,0,120,163,,1139,1422,405,54,2409,2868,4290,24955,No Report
+United States of America,Region of the Americas of WHO,North America,2018,15,2018/4/9,2018/4/15,26533,26533,0,101,102,,903,1106,297,40,1971,2308,3414,23119,No Report
+United States of America,Region of the Americas of WHO,North America,2018,16,2018/4/16,2018/4/22,22657,22657,0,51,86,,595,732,211,43,1469,1723,2455,20202,No Report
+United States of America,Region of the Americas of WHO,North America,2018,17,2018/4/23,2018/4/29,20356,20356,0,56,53,,473,582,138,28,1127,1293,1875,18481,No Report
+United States of America,Region of the Americas of WHO,North America,2018,18,2018/4/30,2018/5/6,17926,17926,0,40,31,,348,419,137,14,747,898,1317,16609,No Report
+United States of America,Region of the Americas of WHO,North America,2018,19,2018/5/7,2018/5/13,15577,15577,0,16,20,,191,227,68,6,475,549,776,14801,No Report
+United States of America,Region of the Americas of WHO,North America,2018,20,2018/5/14,2018/5/20,13477,13477,0,16,10,,176,202,27,6,246,279,481,12996,No Report
+United States of America,Region of the Americas of WHO,North America,2018,21,2018/5/21,2018/5/27,12143,12143,0,18,6,,119,143,20,4,171,195,338,11805,No Report
+United States of America,Region of the Americas of WHO,North America,2018,22,2018/5/28,2018/6/3,11054,11054,0,8,5,,76,89,11,2,91,104,193,10861,No Report
+United States of America,Region of the Americas of WHO,North America,2018,23,2018/6/4,2018/6/10,9989,9989,0,7,3,,73,83,9,3,83,95,178,9811,No Report
+United States of America,Region of the Americas of WHO,North America,2018,24,2018/6/11,2018/6/17,9212,9212,0,6,3,,51,60,8,3,67,78,138,9074,No Report
+United States of America,Region of the Americas of WHO,North America,2018,25,2018/6/18,2018/6/24,8715,8715,0,1,3,,49,53,6,3,38,47,100,8614,No Report
+United States of America,Region of the Americas of WHO,North America,2018,26,2018/6/25,2018/7/1,7920,7920,0,2,6,,57,65,1,0,29,30,95,7825,No Report
+United States of America,Region of the Americas of WHO,North America,2018,27,2018/7/2,2018/7/8,7010,7010,0,9,5,,44,58,6,0,26,32,90,6920,No Report
+United States of America,Region of the Americas of WHO,North America,2018,28,2018/7/9,2018/7/15,7162,7162,0,8,9,,51,68,3,2,14,19,87,7075,No Report
+United States of America,Region of the Americas of WHO,North America,2018,29,2018/7/16,2018/7/22,7009,7009,0,15,5,,57,77,4,2,18,24,101,6908,No Report
+United States of America,Region of the Americas of WHO,North America,2018,30,2018/7/23,2018/7/29,6976,6976,0,9,3,,52,64,0,2,19,21,85,6891,No Report
+United States of America,Region of the Americas of WHO,North America,2018,31,2018/7/30,2018/8/5,6477,6477,0,7,10,,46,63,1,0,17,18,81,6396,No Report
+United States of America,Region of the Americas of WHO,North America,2018,32,2018/8/6,2018/8/12,6954,6954,0,6,8,,48,62,2,0,23,25,87,6867,No Report
+United States of America,Region of the Americas of WHO,North America,2018,33,2018/8/13,2018/8/19,7246,7246,0,5,9,,42,56,2,0,19,21,77,7169,No Report
+United States of America,Region of the Americas of WHO,North America,2018,34,2018/8/20,2018/8/26,8042,8042,0,17,20,,83,120,1,0,28,29,149,7893,No Report
+United States of America,Region of the Americas of WHO,North America,2018,35,2018/8/27,2018/9/2,8970,8970,0,10,6,,98,114,2,0,33,35,149,8821,No Report
+United States of America,Region of the Americas of WHO,North America,2018,36,2018/9/3,2018/9/9,10137,10137,0,17,17,,119,153,1,0,53,54,207,9930,No Report
+United States of America,Region of the Americas of WHO,North America,2018,37,2018/9/10,2018/9/16,12476,12476,0,29,14,,155,198,5,1,48,54,252,12224,No Report
+United States of America,Region of the Americas of WHO,North America,2018,38,2018/9/17,2018/9/23,13717,13717,0,22,17,,160,199,2,1,68,71,270,13447,No Report
+United States of America,Region of the Americas of WHO,North America,2018,39,2018/9/24,2018/9/30,15324,15324,0,20,13,,169,202,3,0,52,55,257,15067,No Report
+United States of America,Region of the Americas of WHO,North America,2018,40,2018/10/1,2018/10/7,17330,17330,0,29,11,,226,266,11,7,71,89,355,16975,No Report
+United States of America,Region of the Americas of WHO,North America,2018,41,2018/10/8,2018/10/14,18954,18954,0,52,11,,231,294,5,3,88,96,390,18564,No Report
+United States of America,Region of the Americas of WHO,North America,2018,42,2018/10/15,2018/10/21,21301,21301,0,52,22,,324,398,14,2,90,106,504,20797,No Report
+United States of America,Region of the Americas of WHO,North America,2018,43,2018/10/22,2018/10/28,22528,22528,0,76,35,,343,454,13,0,104,117,571,21957,No Report
+United States of America,Region of the Americas of WHO,North America,2018,44,2018/10/29,2018/11/4,23695,23695,0,84,23,,393,500,8,1,100,109,609,23086,No Report
+United States of America,Region of the Americas of WHO,North America,2018,45,2018/11/5,2018/11/11,24855,24855,0,117,27,,561,705,7,4,103,114,819,24036,No Report
+United States of America,Region of the Americas of WHO,North America,2018,46,2018/11/12,2018/11/18,25902,25902,0,148,41,,680,869,3,2,104,109,978,24924,No Report
+United States of America,Region of the Americas of WHO,North America,2018,47,2018/11/19,2018/11/25,25858,25858,0,215,54,,907,1176,5,2,77,84,1260,24598,No Report
+United States of America,Region of the Americas of WHO,North America,2018,48,2018/11/26,2018/12/2,29989,29989,0,326,64,,1013,1403,10,2,107,119,1522,28467,No Report
+United States of America,Region of the Americas of WHO,North America,2018,49,2018/12/3,2018/12/9,30761,30761,0,361,90,,1674,2125,7,3,159,169,2294,28467,No Report
+United States of America,Region of the Americas of WHO,North America,2018,50,2018/12/10,2018/12/16,35316,35316,0,674,166,,3262,4102,6,7,197,210,4312,31004,No Report
+United States of America,Region of the Americas of WHO,North America,2018,51,2018/12/17,2018/12/23,41051,41051,0,1115,248,,5367,6730,8,20,201,229,6959,34092,No Report
+United States of America,Region of the Americas of WHO,North America,2018,52,2018/12/24,2018/12/30,45896,45896,0,1243,274,,6962,8479,9,19,248,276,8755,37141,No Report
+United States of America,Region of the Americas of WHO,North America,2019,1,2018/12/31,2019/1/6,47278,47278,0,1182,305,,5400,6887,17,6,158,181,7068,40210,No Report
+United States of America,Region of the Americas of WHO,North America,2019,2,2019/1/7,2019/1/13,44838,44838,0,1429,233,,5175,6837,20,4,230,254,7091,37747,No Report
+United States of America,Region of the Americas of WHO,North America,2019,3,2019/1/14,2019/1/20,45296,45296,0,1475,366,,6783,8624,16,17,195,228,8852,36444,No Report
+United States of America,Region of the Americas of WHO,North America,2019,4,2019/1/21,2019/1/27,47652,47652,0,1546,511,,8426,10483,9,17,262,288,10771,36881,No Report
+United States of America,Region of the Americas of WHO,North America,2019,5,2019/1/28,2019/2/3,52704,52704,0,1678,806,,10732,13216,18,24,300,342,13558,39146,No Report
+United States of America,Region of the Americas of WHO,North America,2019,6,2019/2/4,2019/2/10,58794,58794,0,1878,1202,,13197,16277,11,18,446,475,16752,42040,No Report
+United States of America,Region of the Americas of WHO,North America,2019,7,2019/2/11,2019/2/17,57876,57876,0,1703,1305,,13375,16383,18,29,532,579,16962,40913,No Report
+United States of America,Region of the Americas of WHO,North America,2019,8,2019/2/18,2019/2/24,58689,58689,0,1480,1501,,13759,16740,12,28,532,572,17312,41377,No Report
+United States of America,Region of the Americas of WHO,North America,2019,9,2019/2/25,2019/3/3,58082,58082,0,1377,1785,,13498,16660,10,34,474,518,17178,40904,No Report
+United States of America,Region of the Americas of WHO,North America,2019,10,2019/3/4,2019/3/10,57990,57990,0,1292,1829,,13258,16379,27,42,491,560,16939,41051,No Report
+United States of America,Region of the Americas of WHO,North America,2019,11,2019/3/11,2019/3/17,57812,57812,0,1052,1828,,13412,16292,31,56,611,698,16990,40822,No Report
+United States of America,Region of the Americas of WHO,North America,2019,12,2019/3/18,2019/3/24,52500,52500,0,745,1402,,10349,12496,19,50,689,758,13254,39246,No Report
+United States of America,Region of the Americas of WHO,North America,2019,13,2019/3/25,2019/3/31,45764,45764,0,472,1110,,7695,9277,25,66,698,789,10066,35698,No Report
+United States of America,Region of the Americas of WHO,North America,2019,14,2019/4/1,2019/4/7,39287,39287,0,336,889,,4904,6129,20,70,684,774,6903,32384,No Report
+United States of America,Region of the Americas of WHO,North America,2019,15,2019/4/8,2019/4/14,33751,33751,0,217,660,,3210,4087,18,58,638,714,4801,28950,No Report
+United States of America,Region of the Americas of WHO,North America,2019,16,2019/4/15,2019/4/21,29429,29429,0,130,354,,1898,2382,19,50,536,605,2987,26442,No Report
+United States of America,Region of the Americas of WHO,North America,2019,17,2019/4/22,2019/4/28,25890,25890,0,87,218,,1032,1337,14,39,475,528,1865,24025,No Report
+United States of America,Region of the Americas of WHO,North America,2019,18,2019/4/29,2019/5/5,21148,21148,0,65,158,,640,863,11,40,345,396,1259,19889,No Report
+United States of America,Region of the Americas of WHO,North America,2019,19,2019/5/6,2019/5/12,18525,18525,0,45,94,,418,557,9,41,297,347,904,17621,No Report
+United States of America,Region of the Americas of WHO,North America,2019,20,2019/5/13,2019/5/19,17777,17777,0,43,82,,336,461,7,40,279,326,787,16990,No Report
+United States of America,Region of the Americas of WHO,North America,2019,21,2019/5/20,2019/5/26,16180,16180,0,29,67,,280,376,3,27,261,291,667,15513,No Report
+United States of America,Region of the Americas of WHO,North America,2019,22,2019/5/27,2019/6/2,14912,14912,0,23,55,,216,294,11,25,249,285,579,14333,No Report
+United States of America,Region of the Americas of WHO,North America,2019,23,2019/6/3,2019/6/9,13102,13102,0,26,54,,147,227,1,32,226,259,486,12616,No Report
+United States of America,Region of the Americas of WHO,North America,2019,24,2019/6/10,2019/6/16,11817,11817,0,21,57,,136,214,2,19,140,161,375,11442,No Report
+United States of America,Region of the Americas of WHO,North America,2019,25,2019/6/17,2019/6/23,10843,10843,0,19,52,,111,182,0,13,99,112,294,10549,No Report
+United States of America,Region of the Americas of WHO,North America,2019,26,2019/6/24,2019/6/30,9513,9513,0,21,48,,95,164,3,12,100,115,279,9234,No Report
+United States of America,Region of the Americas of WHO,North America,2019,27,2019/7/1,2019/7/7,9212,9212,0,29,41,,132,202,1,13,89,103,305,8907,No Report
+United States of America,Region of the Americas of WHO,North America,2019,28,2019/7/8,2019/7/14,9474,9474,0,10,42,,103,155,1,9,83,93,248,9226,No Report
+United States of America,Region of the Americas of WHO,North America,2019,29,2019/7/15,2019/7/21,8662,8662,0,12,55,,109,176,0,10,81,91,267,8395,No Report
+United States of America,Region of the Americas of WHO,North America,2019,30,2019/7/22,2019/7/28,8245,8245,0,19,29,,106,154,0,11,88,99,253,7992,No Report
+United States of America,Region of the Americas of WHO,North America,2019,31,2019/7/29,2019/8/4,8213,8213,0,14,30,,106,150,2,10,86,98,248,7965,No Report
+United States of America,Region of the Americas of WHO,North America,2019,32,2019/8/5,2019/8/11,8374,8374,0,7,33,,79,119,0,16,88,104,223,8151,No Report
+United States of America,Region of the Americas of WHO,North America,2019,33,2019/8/12,2019/8/18,8647,8647,0,20,34,,81,135,0,38,94,132,267,8380,No Report
+United States of America,Region of the Americas of WHO,North America,2019,34,2019/8/19,2019/8/25,9244,9244,0,19,38,,95,152,0,32,118,150,302,8942,No Report
+United States of America,Region of the Americas of WHO,North America,2019,35,2019/8/26,2019/9/1,10870,10870,0,14,34,,146,194,0,29,226,255,449,10421,No Report
+United States of America,Region of the Americas of WHO,North America,2019,36,2019/9/2,2019/9/8,12268,12268,0,16,54,,145,215,1,29,231,261,476,11792,No Report
+United States of America,Region of the Americas of WHO,North America,2019,37,2019/9/9,2019/9/15,13954,13954,0,12,69,,166,247,2,44,182,228,475,13479,No Report
+United States of America,Region of the Americas of WHO,North America,2019,38,2019/9/16,2019/9/22,15837,15837,0,27,59,,171,257,0,46,258,304,561,15276,No Report
+United States of America,Region of the Americas of WHO,North America,2019,39,2019/9/23,2019/9/29,18142,18142,0,18,60,,171,249,0,49,329,378,627,17515,No Report
+United States of America,Region of the Americas of WHO,North America,2019,40,2019/9/30,2019/10/6,20838,20838,0,25,57,,157,239,1,56,131,188,427,20411,No Report
+United States of America,Region of the Americas of WHO,North America,2019,41,2019/10/7,2019/10/13,23213,23213,0,33,64,,168,265,2,70,188,260,525,22688,No Report
+United States of America,Region of the Americas of WHO,North America,2019,42,2019/10/14,2019/10/20,24387,24387,0,36,82,,196,314,3,77,200,280,594,23793,No Report
+United States of America,Region of the Americas of WHO,North America,2019,43,2019/10/21,2019/10/27,26123,26123,0,53,78,,249,380,5,96,374,475,855,25268,No Report
+United States of America,Region of the Americas of WHO,North America,2019,44,2019/10/28,2019/11/3,27014,27014,0,52,61,,304,417,5,120,595,720,1137,25877,No Report
+United States of America,Region of the Americas of WHO,North America,2019,45,2019/11/4,2019/11/10,31189,31189,0,122,74,,619,815,10,234,1149,1393,2208,28981,No Report
+United States of America,Region of the Americas of WHO,North America,2019,46,2019/11/11,2019/11/17,33647,33647,0,149,58,,681,888,10,330,1678,2018,2906,30741,No Report
+United States of America,Region of the Americas of WHO,North America,2019,47,2019/11/18,2019/11/24,39305,39305,0,258,78,,1076,1412,10,423,2754,3187,4599,34706,No Report
+United States of America,Region of the Americas of WHO,North America,2019,48,2019/11/25,2019/12/1,37757,37757,0,369,83,,1171,1623,10,500,2934,3444,5067,32690,No Report
+United States of America,Region of the Americas of WHO,North America,2019,49,2019/12/2,2019/12/8,45188,45188,0,513,83,,1512,2108,14,657,3656,4327,6435,38753,No Report
+United States of America,Region of the Americas of WHO,North America,2019,50,2019/12/9,2019/12/15,48415,48415,0,620,78,,2199,2897,15,807,5408,6230,9127,39288,No Report
+United States of America,Region of the Americas of WHO,North America,2019,51,2019/12/16,2019/12/22,58494,58494,0,915,52,,3749,4716,16,1110,8855,9981,14697,43797,No Report
+United States of America,Region of the Americas of WHO,North America,2019,52,2019/12/23,2019/12/29,68238,68238,0,1210,88,,6007,7305,24,1326,11612,12962,20267,47971,No Report
+United States of America,Region of the Americas of WHO,North America,2020,1,2019/12/30,2020/1/5,69417,69417,,1262,101,,5690,7053,23,1275,9853,11151,18204,51213,No Report
+United States of America,Region of the Americas of WHO,North America,2020,2,2020/1/6,2020/1/12,65248,65248,,1338,86,,6143,7567,20,1145,8151,9316,16883,48365,No Report
+United States of America,Region of the Americas of WHO,North America,2020,3,2020/1/13,2020/1/19,65248,65248,,1598,73,,7768,9439,12,1244,8272,9528,18967,46281,No Report
+United States of America,Region of the Americas of WHO,North America,2020,4,2020/1/20,2020/1/26,69503,69503,,1769,79,,9515,11363,8,1137,9020,10165,21528,47975,No Report
+United States of America,Region of the Americas of WHO,North America,2020,5,2020/1/27,2020/2/2,78337,78337,,2359,92,,12152,14603,8,1069,9980,11057,25660,52677,No Report
+United States of America,Region of the Americas of WHO,North America,2020,6,2020/2/3,2020/2/9,77514,77514,,2346,91,,13024,15461,5,871,9075,9951,25412,52102,No Report
+United States of America,Region of the Americas of WHO,North America,2020,7,2020/2/10,2020/2/16,74285,74285,,2048,65,,13501,15614,10,744,7460,8214,23828,50457,No Report
+United States of America,Region of the Americas of WHO,North America,2020,8,2020/2/17,2020/2/23,69556,69556,,1752,76,,12833,14661,9,564,5924,6497,21158,48398,No Report
+United States of America,Region of the Americas of WHO,North America,2020,9,2020/2/24,2020/3/1,66390,66390,,1662,63,,11763,13488,8,454,4503,4965,18453,47937,No Report
+United States of America,Region of the Americas of WHO,North America,2020,10,2020/3/2,2020/3/8,68289,68289,,1601,73,,11115,12789,8,352,3508,3868,16657,51632,No Report
+United States of America,Region of the Americas of WHO,North America,2020,11,2020/3/9,2020/3/15,78010,78010,,1136,74,,9127,10337,3,197,2775,2975,13312,64698,No Report
+United States of America,Region of the Americas of WHO,North America,2020,12,2020/3/16,2020/3/22,75949,75949,,444,30,,4154,4628,1,77,1397,1475,6103,69846,No Report
+United States of America,Region of the Americas of WHO,North America,2020,13,2020/3/23,2020/3/29,46900,46900,,100,7,,767,874,2,20,314,336,1210,45690,No Report
+United States of America,Region of the Americas of WHO,North America,2020,14,2020/3/30,2020/4/5,32310,32310,,37,1,,200,238,0,5,129,134,372,31938,No Report
+United States of America,Region of the Americas of WHO,North America,2020,15,2020/4/6,2020/4/12,20593,20593,,28,0,,78,106,0,0,50,50,156,20437,No Report
+United States of America,Region of the Americas of WHO,North America,2020,16,2020/4/13,2020/4/19,15327,15327,,19,0,,58,77,0,2,35,37,114,15213,No Report
+United States of America,Region of the Americas of WHO,North America,2020,17,2020/4/20,2020/4/26,13640,13640,,26,0,,20,46,0,0,12,12,58,13582,No Report
+United States of America,Region of the Americas of WHO,North America,2020,18,2020/4/27,2020/5/3,11010,11010,,23,0,,20,43,0,1,10,11,54,10956,No Report
+United States of America,Region of the Americas of WHO,North America,2020,19,2020/5/4,2020/5/10,9550,9550,,26,1,,14,41,0,0,17,17,58,9492,No Report
+United States of America,Region of the Americas of WHO,North America,2020,20,2020/5/11,2020/5/17,8526,8526,,24,0,,14,38,0,0,13,13,51,8475,No Report
+United States of America,Region of the Americas of WHO,North America,2020,21,2020/5/18,2020/5/24,8076,8076,,0,0,,9,9,0,0,8,8,17,8059,No Report
+United States of America,Region of the Americas of WHO,North America,2020,22,2020/5/25,2020/5/31,6583,6583,,2,0,,8,10,0,0,4,4,14,6569,No Report
+United States of America,Region of the Americas of WHO,North America,2020,23,2020/6/1,2020/6/7,6540,6540,,0,0,,9,9,0,0,14,14,23,6517,No Report
+United States of America,Region of the Americas of WHO,North America,2020,24,2020/6/8,2020/6/14,6065,6065,,1,0,,9,10,0,1,11,12,22,6043,No Report
+United States of America,Region of the Americas of WHO,North America,2020,25,2020/6/15,2020/6/21,5645,5645,,0,0,,12,12,0,0,8,8,20,5625,No Report
+United States of America,Region of the Americas of WHO,North America,2020,26,2020/6/22,2020/6/28,5875,5875,,0,0,,12,12,0,0,7,7,19,5856,No Report
+United States of America,Region of the Americas of WHO,North America,2020,27,2020/6/29,2020/7/5,6378,6378,,0,0,,9,9,0,0,5,5,14,6364,No Report
+United States of America,Region of the Americas of WHO,North America,2020,28,2020/7/6,2020/7/12,6503,6503,,0,0,,7,7,0,0,6,6,13,6490,No Report
+United States of America,Region of the Americas of WHO,North America,2020,29,2020/7/13,2020/7/19,6339,6339,,0,0,,11,11,0,0,12,12,23,6316,No Report
+United States of America,Region of the Americas of WHO,North America,2020,30,2020/7/20,2020/7/26,6212,6212,,0,0,,7,7,0,0,4,4,11,6201,No Report
+United States of America,Region of the Americas of WHO,North America,2020,31,2020/7/27,2020/8/2,6233,6233,,0,0,,3,3,0,0,5,5,8,6225,No Report
+United States of America,Region of the Americas of WHO,North America,2020,32,2020/8/3,2020/8/9,6412,6412,,0,0,,7,7,0,0,4,4,11,6401,No Report
+United States of America,Region of the Americas of WHO,North America,2020,33,2020/8/10,2020/8/16,6163,6163,,0,0,,4,4,0,0,5,5,9,6154,No Report
+United States of America,Region of the Americas of WHO,North America,2020,34,2020/8/17,2020/8/23,6349,6349,,0,0,,6,6,0,0,8,8,14,6335,No Report
+United States of America,Region of the Americas of WHO,North America,2020,35,2020/8/24,2020/8/30,8657,8657,,0,0,,7,7,0,0,13,13,20,8637,No Report
+United States of America,Region of the Americas of WHO,North America,2020,36,2020/8/31,2020/9/6,8561,8561,,0,0,,8,8,0,0,6,6,14,8547,No Report
+United States of America,Region of the Americas of WHO,North America,2020,37,2020/9/7,2020/9/13,6603,6603,,0,1,,7,8,0,0,6,6,14,6589,No Report
+United States of America,Region of the Americas of WHO,North America,2020,38,2020/9/14,2020/9/20,7539,7539,,0,0,,15,15,0,0,18,18,33,7506,No Report
+United States of America,Region of the Americas of WHO,North America,2020,39,2020/9/21,2020/9/27,9814,9814,,0,0,,14,14,0,0,10,10,24,9790,No Report
+United States of America,Region of the Americas of WHO,North America,2020,40,2020/9/28,2020/10/4,18429,18429,,0,0,,20,20,0,0,19,19,39,18390,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,1,2014/12/29,2015/1/4,,1468,0,1,146,,162,309,1,0,5,6,315,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,2,2015/1/5,2015/1/11,,1635,0,6,291,,82,379,4,0,4,8,387,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,3,2015/1/12,2015/1/18,,1510,0,4,247,,82,333,2,0,8,10,343,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,4,2015/1/19,2015/1/25,,1531,0,6,272,,130,408,2,0,5,7,415,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,5,2015/1/26,2015/2/1,,1613,0,14,313,,100,427,5,0,10,15,442,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,6,2015/2/2,2015/2/8,,1545,0,9,306,,114,429,5,0,18,23,452,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,7,2015/2/9,2015/2/15,,1679,0,11,340,,107,458,12,1,30,43,501,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,8,2015/2/16,2015/2/22,,1778,0,16,280,,127,423,13,0,32,45,468,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,9,2015/2/23,2015/3/1,,1524,0,9,134,,95,238,6,0,58,64,302,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,10,2015/3/2,2015/3/8,,1262,0,12,71,,60,143,1,0,58,59,202,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,11,2015/3/9,2015/3/15,,1217,0,13,76,,35,124,5,1,73,79,203,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,12,2015/3/16,2015/3/22,,1183,0,14,46,,25,85,32,4,80,116,201,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,13,2015/3/23,2015/3/29,,1120,0,6,36,,10,52,17,0,85,102,154,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,14,2015/3/30,2015/4/5,,1085,0,9,15,,14,38,23,3,90,116,154,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,15,2015/4/6,2015/4/12,,1080,0,3,10,,11,24,11,2,101,114,138,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,16,2015/4/13,2015/4/19,,1094,0,4,5,,7,16,30,0,107,137,153,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,17,2015/4/20,2015/4/26,,867,0,1,1,,3,5,0,0,80,80,85,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,18,2015/4/27,2015/5/3,,950,0,1,1,,4,6,0,0,47,47,53,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,19,2015/5/4,2015/5/10,,907,0,0,2,,1,3,0,0,48,48,51,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,20,2015/5/11,2015/5/17,,883,0,0,1,,2,3,0,0,40,40,43,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,21,2015/5/18,2015/5/24,,882,0,0,0,,0,0,0,0,48,48,48,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,22,2015/5/25,2015/5/31,,750,0,1,2,,1,4,0,0,29,29,33,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,23,2015/6/1,2015/6/7,,810,0,1,3,,0,4,0,0,18,18,22,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,24,2015/6/8,2015/6/14,,834,0,0,2,,2,4,0,0,26,26,30,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,25,2015/6/15,2015/6/21,,752,0,0,8,,0,8,0,0,11,11,19,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,26,2015/6/22,2015/6/28,,721,0,0,4,,1,5,0,0,6,6,11,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,27,2015/6/29,2015/7/5,,694,0,0,0,,4,4,0,0,4,4,8,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,28,2015/7/6,2015/7/12,,758,0,0,0,,1,1,0,0,3,3,4,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,29,2015/7/13,2015/7/19,,613,0,0,1,,1,2,0,0,3,3,5,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,30,2015/7/20,2015/7/26,,639,0,1,1,,1,3,0,0,2,2,5,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,31,2015/7/27,2015/8/2,,663,0,1,5,,2,8,0,0,0,0,8,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,32,2015/8/3,2015/8/9,,601,0,0,2,,1,3,0,0,2,2,5,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,33,2015/8/10,2015/8/16,,593,0,0,2,,1,3,0,0,4,4,7,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,34,2015/8/17,2015/8/23,,607,0,0,2,,1,3,0,0,1,1,4,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,35,2015/8/24,2015/8/30,,650,0,0,0,,0,0,0,0,1,1,1,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,36,2015/8/31,2015/9/6,,746,0,0,0,,2,2,0,0,0,0,2,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,37,2015/9/7,2015/9/13,,770,0,1,1,,0,2,0,0,1,1,3,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,38,2015/9/14,2015/9/20,,780,0,0,0,,2,2,0,0,1,1,3,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,39,2015/9/21,2015/9/27,,684,0,0,0,,2,2,0,0,0,0,2,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,40,2015/9/28,2015/10/4,,902,0,1,4,,5,10,0,0,9,9,19,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,41,2015/10/5,2015/10/11,,962,0,6,7,,21,34,0,1,7,8,42,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,42,2015/10/12,2015/10/18,,1008,0,7,2,,7,16,0,0,9,9,25,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,43,2015/10/19,2015/10/25,,1100,0,9,2,,7,18,0,0,5,5,23,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,44,2015/10/26,2015/11/1,,1099,0,4,3,,15,22,0,0,15,15,37,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,45,2015/11/2,2015/11/8,,1199,0,7,2,,18,27,0,0,8,8,35,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,46,2015/11/9,2015/11/15,,1089,0,3,2,,8,13,0,0,13,13,26,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,47,2015/11/16,2015/11/22,,1320,0,12,2,,13,27,0,1,9,10,37,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,48,2015/11/23,2015/11/29,,1401,0,13,2,,12,27,0,1,12,13,40,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,49,2015/11/30,2015/12/6,,1347,0,13,4,,26,43,0,1,17,18,61,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,50,2015/12/7,2015/12/13,,1428,0,33,1,,19,53,0,0,11,11,64,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,51,2015/12/14,2015/12/20,,1531,0,82,3,,71,156,0,0,11,11,167,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,52,2015/12/21,2015/12/27,,1279,0,97,0,,84,181,1,0,16,17,198,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2015,53,2015/12/28,2016/1/3,,1465,0,139,0,,112,251,1,0,25,26,277,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,1,2016/1/4,2016/1/10,,1746,0,225,5,,165,395,1,1,25,27,422,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,2,2016/1/11,2016/1/17,,1562,0,210,3,,161,374,0,0,32,32,406,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,3,2016/1/18,2016/1/24,,1793,0,305,5,,218,528,0,1,27,28,556,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,4,2016/1/25,2016/1/31,,1958,0,387,3,,391,781,0,0,49,49,830,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,5,2016/2/1,2016/2/7,,2158,0,390,43,,427,860,0,2,57,59,919,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,6,2016/2/8,2016/2/14,,2150,0,391,3,,434,828,1,6,83,90,918,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,7,2016/2/15,2016/2/21,,2103,0,402,1,,533,936,1,18,103,122,1058,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,8,2016/2/22,2016/2/28,,2121,0,381,4,,536,921,4,12,150,166,1087,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,9,2016/2/29,2016/3/6,,2284,0,343,6,,580,929,4,48,260,312,1241,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,10,2016/3/7,2016/3/13,,2273,0,344,9,,562,915,1,37,339,377,1292,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,11,2016/3/14,2016/3/20,,2185,0,305,9,,675,989,3,76,512,591,1580,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,12,2016/3/21,2016/3/27,,2035,0,204,8,,481,693,2,30,544,576,1269,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,13,2016/3/28,2016/4/3,,1945,0,148,6,,380,534,2,65,566,633,1167,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,14,2016/4/4,2016/4/10,,1571,0,70,2,,212,284,5,59,470,534,818,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,15,2016/4/11,2016/4/17,,1453,0,32,3,,173,208,1,22,378,401,609,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,16,2016/4/18,2016/4/24,,1387,0,23,6,,58,87,0,0,289,289,376,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,17,2016/4/25,2016/5/1,,1280,0,14,6,,69,89,0,0,206,206,295,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,18,2016/5/2,2016/5/8,,1293,0,16,1,,59,76,0,0,204,204,280,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,19,2016/5/9,2016/5/15,,1253,0,2,4,,43,49,0,0,150,150,199,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,20,2016/5/16,2016/5/22,,1230,0,3,6,,25,34,0,0,86,86,120,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,21,2016/5/23,2016/5/29,,1028,0,5,2,,6,13,0,0,51,51,64,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,22,2016/5/30,2016/6/5,,1087,0,0,1,,14,15,0,0,27,27,42,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,23,2016/6/6,2016/6/12,,1098,0,1,4,,1,6,0,0,5,5,11,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,24,2016/6/13,2016/6/19,,906,0,0,1,,0,1,0,0,4,4,5,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,25,2016/6/20,2016/6/26,,991,0,0,1,,0,1,0,0,3,3,4,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,26,2016/6/27,2016/7/3,,1006,0,3,1,,1,5,0,0,2,2,7,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,27,2016/7/4,2016/7/10,,1020,0,1,4,,0,5,0,0,3,3,8,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,28,2016/7/11,2016/7/17,,1048,0,2,1,,0,3,0,0,1,1,4,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,29,2016/7/18,2016/7/24,,956,0,0,2,,2,4,0,0,3,3,7,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,30,2016/7/25,2016/7/31,,893,0,1,7,,1,9,0,0,2,2,11,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,31,2016/8/1,2016/8/7,,821,0,2,6,,2,10,0,0,0,0,10,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,32,2016/8/8,2016/8/14,,868,0,0,4,,7,11,0,0,0,0,11,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,33,2016/8/15,2016/8/21,,804,0,1,3,,8,12,0,0,1,1,13,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,34,2016/8/22,2016/8/28,,876,0,0,2,,2,4,0,0,0,0,4,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,35,2016/8/29,2016/9/4,,843,0,1,2,,1,4,0,0,1,1,5,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,36,2016/9/5,2016/9/11,,880,0,0,3,,2,5,0,0,0,0,5,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,37,2016/9/12,2016/9/18,,946,0,1,4,,1,6,0,0,2,2,8,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,38,2016/9/19,2016/9/25,,994,0,0,3,,0,3,0,0,0,0,3,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,39,2016/9/26,2016/10/2,,959,0,0,2,,5,7,0,0,2,2,9,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,40,2016/10/3,2016/10/9,,1252,0,4,6,,8,18,1,0,8,9,27,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,41,2016/10/10,2016/10/16,,1353,0,1,4,,8,13,0,0,2,2,15,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,42,2016/10/17,2016/10/23,,1376,0,0,7,,13,20,0,0,5,5,25,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,43,2016/10/24,2016/10/30,,1316,0,0,7,,8,15,0,0,2,2,17,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,44,2016/10/31,2016/11/6,,1473,0,0,13,,16,29,1,1,8,10,39,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,45,2016/11/7,2016/11/13,,1644,0,0,14,,20,34,0,0,5,5,39,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,46,2016/11/14,2016/11/20,,1690,0,2,28,,43,73,0,0,6,6,79,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,47,2016/11/21,2016/11/27,,1679,0,2,28,,33,63,2,0,7,9,72,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,48,2016/11/28,2016/12/4,,1708,0,0,58,,72,130,2,0,6,8,138,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,49,2016/12/5,2016/12/11,,1873,0,0,130,,141,271,2,0,11,13,284,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,50,2016/12/12,2016/12/18,,1874,0,3,175,,251,429,3,0,15,18,447,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,51,2016/12/19,2016/12/25,,2112,0,4,279,,428,711,2,0,22,24,735,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2016,52,2016/12/26,2017/1/1,,2211,0,0,381,,494,875,7,0,39,46,921,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,1,2017/1/2,2017/1/8,,2322,0,3,421,,750,1174,8,0,32,40,1214,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,2,2017/1/9,2017/1/15,,2725,0,0,447,,1006,1453,10,1,44,55,1508,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,3,2017/1/16,2017/1/22,,2308,0,1,377,,784,1162,13,0,39,52,1214,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,4,2017/1/23,2017/1/29,,2076,0,0,297,,849,1146,19,0,56,75,1221,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,5,2017/1/30,2017/2/5,,2220,0,1,307,,856,1164,11,0,67,78,1242,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,6,2017/2/6,2017/2/12,,2037,0,1,266,,623,890,10,0,47,57,947,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,7,2017/2/13,2017/2/19,,1992,0,0,240,,425,665,8,0,65,73,738,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,8,2017/2/20,2017/2/26,,1906,0,2,173,,456,631,21,0,69,90,721,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,9,2017/2/27,2017/3/5,,1814,0,0,126,,349,475,26,0,67,93,568,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,10,2017/3/6,2017/3/12,,1745,0,2,92,,162,256,18,0,105,123,379,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,11,2017/3/13,2017/3/19,,1907,0,0,82,,106,188,25,1,107,133,321,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,12,2017/3/20,2017/3/26,,1746,0,2,55,,87,144,24,0,111,135,279,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,13,2017/3/27,2017/4/2,,1881,0,0,57,,60,117,3,0,161,164,281,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,14,2017/4/3,2017/4/9,,1708,0,0,28,,47,75,24,7,130,161,236,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,15,2017/4/10,2017/4/16,,1448,0,1,11,,29,41,25,0,115,140,181,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,16,2017/4/17,2017/4/23,,1433,0,0,12,,22,34,28,0,125,153,187,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,17,2017/4/24,2017/4/30,,1444,0,0,14,,21,35,30,0,132,162,197,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,18,2017/5/1,2017/5/7,,1426,0,1,18,,17,36,20,0,140,160,196,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,19,2017/5/8,2017/5/14,,1563,0,2,10,,23,35,14,0,172,186,221,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,20,2017/5/15,2017/5/21,,1493,0,0,9,,24,33,0,0,122,122,155,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,21,2017/5/22,2017/5/28,,1285,0,0,2,,5,7,0,0,50,50,57,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,22,2017/5/29,2017/6/4,,992,0,0,3,,7,10,0,0,33,33,43,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,23,2017/6/5,2017/6/11,,268,0,0,0,,0,0,0,0,1,1,1,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,24,2017/6/12,2017/6/18,,262,0,0,1,,0,1,0,0,2,2,3,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,25,2017/6/19,2017/6/25,,290,0,0,2,,0,2,0,0,2,2,4,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,26,2017/6/26,2017/7/2,,254,0,0,1,,1,2,0,0,0,0,2,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,27,2017/7/3,2017/7/9,,269,0,0,1,,1,2,0,0,4,4,6,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,28,2017/7/10,2017/7/16,,222,0,0,0,,1,1,0,0,0,0,1,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,29,2017/7/17,2017/7/23,,263,0,0,1,,0,1,0,0,0,0,1,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,30,2017/7/24,2017/7/30,,259,0,0,2,,1,3,0,0,0,0,3,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,31,2017/7/31,2017/8/6,,232,0,0,2,,0,2,0,0,0,0,2,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,32,2017/8/7,2017/8/13,,231,0,0,0,,0,0,0,0,1,1,1,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,33,2017/8/14,2017/8/20,,240,0,0,3,,0,3,0,0,0,0,3,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,34,2017/8/21,2017/8/27,,236,0,0,2,,2,4,0,0,0,0,4,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,35,2017/8/28,2017/9/3,,219,0,0,3,,0,3,0,0,0,0,3,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,36,2017/9/4,2017/9/10,,240,0,1,1,,1,3,0,0,0,0,3,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,37,2017/9/11,2017/9/17,,279,0,1,3,,0,4,0,0,0,0,4,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,38,2017/9/18,2017/9/24,,313,0,0,0,,0,0,0,0,0,0,0,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,39,2017/9/25,2017/10/1,,308,0,0,0,,2,2,0,0,1,1,3,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,40,2017/10/2,2017/10/8,,1284,0,5,14,,31,50,0,0,14,14,64,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,41,2017/10/9,2017/10/15,,1452,0,2,15,,25,42,1,1,21,23,65,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,42,2017/10/16,2017/10/22,,1452,0,0,16,,16,32,4,1,18,23,55,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,43,2017/10/23,2017/10/29,,1483,0,0,10,,20,30,1,0,7,8,38,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,44,2017/10/30,2017/11/5,,1490,0,1,10,,26,37,1,0,12,13,50,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,45,2017/11/6,2017/11/12,,1649,0,3,21,,26,50,6,0,27,33,83,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,46,2017/11/13,2017/11/19,,1856,0,4,49,,34,87,8,1,37,46,133,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,47,2017/11/20,2017/11/26,,2083,0,6,79,,59,144,9,0,50,59,203,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,48,2017/11/27,2017/12/3,,2031,0,8,103,,78,189,6,0,45,51,240,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,49,2017/12/4,2017/12/10,,2322,0,22,209,,158,389,2,0,108,110,499,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,50,2017/12/11,2017/12/17,,2873,0,20,431,,286,737,6,0,210,216,953,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,51,2017/12/18,2017/12/24,,3815,0,42,856,,683,1581,19,0,610,629,2210,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2017,52,2017/12/25,2017/12/31,,4000,0,38,824,,947,1809,21,0,946,967,2776,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,1,2018/1/1,2018/1/7,,4750,0,47,832,,1348,2227,44,0,1587,1631,3858,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,2,2018/1/8,2018/1/14,,4870,0,56,700,,1301,2057,45,1,2004,2050,4107,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,3,2018/1/15,2018/1/21,,4329,0,87,503,,1109,1699,47,0,2046,2093,3792,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,4,2018/1/22,2018/1/28,,3632,0,77,379,,1099,1555,50,0,2002,2052,3607,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,5,2018/1/29,2018/2/4,,2966,0,50,271,,1061,1382,43,0,1744,1787,3169,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,6,2018/2/5,2018/2/11,,2606,0,31,232,,855,1118,47,0,1498,1545,2663,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,7,2018/2/12,2018/2/18,,2577,0,143,243,,989,1375,7,0,1428,1435,2810,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,8,2018/2/19,2018/2/25,,2313,0,35,264,,1325,1624,51,0,1669,1720,3344,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,9,2018/2/26,2018/3/4,,2102,0,35,207,,934,1176,34,0,1174,1208,2384,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,10,2018/3/5,2018/3/11,,1878,0,21,133,,1195,1349,39,0,1249,1288,2637,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,11,2018/3/12,2018/3/18,,1833,0,39,129,,1025,1193,0,0,961,961,2154,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,12,2018/3/19,2018/3/25,,1732,0,34,124,,926,1084,0,0,641,641,1725,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,13,2018/3/26,2018/4/1,,1639,0,19,100,,733,852,0,0,469,469,1321,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,14,2018/4/2,2018/4/8,,1483,0,23,90,,665,778,0,0,357,357,1135,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,15,2018/4/9,2018/4/15,,1466,0,18,80,,471,569,0,0,240,240,809,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,16,2018/4/16,2018/4/22,,1225,0,7,41,,224,272,0,0,130,130,402,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,17,2018/4/23,2018/4/29,,1152,0,3,17,,82,102,0,0,68,68,170,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,18,2018/4/30,2018/5/6,,1033,0,4,13,,59,76,0,0,25,25,101,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,19,2018/5/7,2018/5/13,,1037,0,3,11,,44,58,0,0,28,28,86,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,20,2018/5/14,2018/5/20,,1003,0,0,8,,33,41,0,0,23,23,64,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,21,2018/5/21,2018/5/27,,901,0,2,1,,3,6,0,0,5,5,11,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,22,2018/5/28,2018/6/3,,1008,0,2,2,,2,6,2,0,4,6,12,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,23,2018/6/4,2018/6/10,,946,0,0,5,,0,5,0,0,2,2,7,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,24,2018/6/11,2018/6/17,,848,0,1,1,,3,5,1,0,1,2,7,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,25,2018/6/18,2018/6/24,,1125,0,0,1,,1,2,0,0,0,0,2,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,26,2018/6/25,2018/7/1,,872,0,2,0,,0,2,0,0,0,0,2,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,27,2018/7/2,2018/7/8,,726,0,2,0,,0,2,0,0,0,0,2,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,28,2018/7/9,2018/7/15,,690,0,2,0,,1,3,0,0,0,0,3,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,29,2018/7/16,2018/7/22,,698,0,1,1,,1,3,0,0,1,1,4,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,30,2018/7/23,2018/7/29,,688,0,0,0,,0,0,0,0,0,0,0,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,31,2018/7/30,2018/8/5,,640,0,0,1,,1,2,0,0,2,2,4,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,32,2018/8/6,2018/8/12,,645,0,0,0,,2,2,0,0,0,0,2,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,33,2018/8/13,2018/8/19,,648,0,0,0,,0,0,0,0,0,0,0,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,34,2018/8/20,2018/8/26,,717,0,0,2,,1,3,0,0,0,0,3,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,35,2018/8/27,2018/9/2,,805,0,4,1,,0,5,0,0,0,0,5,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,36,2018/9/3,2018/9/9,,916,0,5,1,,2,8,0,0,0,0,8,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,37,2018/9/10,2018/9/16,,900,0,3,0,,1,4,0,0,2,2,6,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,38,2018/9/17,2018/9/23,,964,0,2,1,,1,4,0,0,2,2,6,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,39,2018/9/24,2018/9/30,,799,0,0,1,,1,2,0,0,0,0,2,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,40,2018/10/1,2018/10/7,,1141,0,3,2,,13,18,0,0,11,11,29,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,41,2018/10/8,2018/10/14,,1162,0,3,1,,19,23,0,0,1,1,24,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,42,2018/10/15,2018/10/21,,1214,0,5,5,,17,27,0,0,13,13,40,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,43,2018/10/22,2018/10/28,,1196,0,22,2,,30,54,0,0,9,9,63,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,44,2018/10/29,2018/11/4,,1273,0,36,3,,43,82,0,0,13,13,95,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,45,2018/11/5,2018/11/11,,1598,0,31,5,,71,107,0,0,15,15,122,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,46,2018/11/12,2018/11/18,,1586,0,32,8,,82,122,0,0,15,15,137,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,47,2018/11/19,2018/11/25,,1590,0,36,1,,84,121,0,0,17,17,138,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,48,2018/11/26,2018/12/2,,1852,0,69,5,,150,224,0,0,19,19,243,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,49,2018/12/3,2018/12/9,,1902,0,91,11,,190,292,0,0,10,10,302,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,50,2018/12/10,2018/12/16,,1841,0,119,6,,258,383,0,0,20,20,403,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,51,2018/12/17,2018/12/23,,2115,0,269,13,,544,826,0,0,20,20,846,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2018,52,2018/12/24,2018/12/30,,2201,0,402,20,,817,1239,0,0,15,15,1254,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,1,2018/12/31,2019/1/6,,2550,0,489,25,,1451,1965,0,0,22,22,1987,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,2,2019/1/7,2019/1/13,,2960,0,627,46,,2067,2740,0,0,42,42,2782,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,3,2019/1/14,2019/1/20,,2839,0,569,76,,1979,2624,0,0,31,31,2655,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,4,2019/1/21,2019/1/27,,2704,0,584,68,,2378,3030,0,0,29,29,3059,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,5,2019/1/28,2019/2/3,,2896,0,705,188,,2687,3580,0,0,43,43,3623,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,6,2019/2/4,2019/2/10,,3064,0,883,171,,2961,4015,0,0,19,19,4034,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,7,2019/2/11,2019/2/17,,2921,0,629,195,,3061,3885,0,0,38,38,3923,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,8,2019/2/18,2019/2/24,,2587,0,407,173,,2167,2747,0,0,24,24,2771,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,9,2019/2/25,2019/3/3,,1975,0,182,126,,1390,1698,0,0,21,21,1719,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,10,2019/3/4,2019/3/10,,1889,0,130,120,,940,1190,0,0,15,15,1205,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,11,2019/3/11,2019/3/17,,1624,0,87,108,,695,890,0,0,10,10,900,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,12,2019/3/18,2019/3/24,,1594,0,59,119,,719,897,0,0,12,12,909,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,13,2019/3/25,2019/3/31,,1414,0,26,93,,501,620,0,0,19,19,639,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,14,2019/4/1,2019/4/7,,1584,0,19,152,,431,602,0,0,19,19,621,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,15,2019/4/8,2019/4/14,,1486,0,14,111,,435,560,0,0,15,15,575,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,16,2019/4/15,2019/4/21,,1262,0,5,66,,336,407,0,0,9,9,416,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,17,2019/4/22,2019/4/28,,1192,0,4,56,,331,391,0,0,15,15,406,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,18,2019/4/29,2019/5/5,,1083,0,3,34,,193,230,0,0,14,14,244,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,19,2019/5/6,2019/5/12,,1013,0,0,27,,88,115,0,0,7,7,122,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,20,2019/5/13,2019/5/19,,1031,0,0,31,,94,125,0,0,12,12,137,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,21,2019/5/20,2019/5/26,,1086,0,0,29,,5,34,0,0,1,1,35,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,22,2019/5/27,2019/6/2,,961,0,1,10,,6,17,0,0,1,1,18,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,23,2019/6/3,2019/6/9,,1035,0,4,5,,8,17,0,0,0,0,17,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,24,2019/6/10,2019/6/16,,993,0,11,13,,4,28,0,0,2,2,30,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,25,2019/6/17,2019/6/23,,980,0,2,6,,3,11,0,0,2,2,13,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,26,2019/6/24,2019/6/30,,893,0,2,6,,4,12,0,0,4,4,16,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,27,2019/7/1,2019/7/7,,761,0,0,8,,3,11,0,0,0,0,11,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,28,2019/7/8,2019/7/14,,787,0,5,3,,3,11,0,0,2,2,13,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,29,2019/7/15,2019/7/21,,797,0,3,2,,1,6,0,0,3,3,9,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,30,2019/7/22,2019/7/28,,704,0,0,8,,0,8,0,0,1,1,9,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,31,2019/7/29,2019/8/4,,625,0,0,12,,4,16,0,0,0,0,16,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,32,2019/8/5,2019/8/11,,641,0,0,11,,3,14,0,0,2,2,16,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,33,2019/8/12,2019/8/18,,714,0,1,15,,2,18,0,0,2,2,20,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,34,2019/8/19,2019/8/25,,653,0,1,13,,2,16,0,0,3,3,19,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,35,2019/8/26,2019/9/1,,700,0,0,11,,2,13,0,0,1,1,14,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,36,2019/9/2,2019/9/8,,842,0,1,11,,1,13,0,0,2,2,15,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,37,2019/9/9,2019/9/15,,965,0,0,25,,1,26,0,0,3,3,29,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,38,2019/9/16,2019/9/22,,1036,0,0,22,,2,24,0,0,4,4,28,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,39,2019/9/23,2019/9/29,,915,0,1,14,,6,21,0,0,4,4,25,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,40,2019/9/30,2019/10/6,,1152,0,4,29,,61,94,0,0,19,19,113,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,41,2019/10/7,2019/10/13,,1389,0,8,19,,91,118,0,0,25,25,143,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,42,2019/10/14,2019/10/20,,1357,0,5,33,,83,121,0,0,37,37,158,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,43,2019/10/21,2019/10/27,,1602,0,9,33,,155,197,0,0,31,31,228,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,44,2019/10/28,2019/11/3,,1709,0,9,64,,216,289,0,0,39,39,328,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,45,2019/11/4,2019/11/10,,1849,0,16,77,,184,277,0,0,21,21,298,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,46,2019/11/11,2019/11/17,,1917,0,15,107,,265,387,0,0,25,25,412,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,47,2019/11/18,2019/11/24,,2329,0,22,364,,593,979,0,0,41,41,1020,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,48,2019/11/25,2019/12/1,,2692,0,29,536,,1199,1764,0,0,56,56,1820,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,49,2019/12/2,2019/12/8,,3001,0,42,767,,213,1022,0,0,15,15,1037,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,50,2019/12/9,2019/12/15,,3314,0,40,823,,309,1172,0,0,20,20,1192,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,51,2019/12/16,2019/12/22,,3854,0,69,881,,424,1374,0,0,25,25,1399,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2019,52,2019/12/23,2019/12/29,,3155,0,71,660,,474,1205,0,0,14,14,1219,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,1,2019/12/30,2020/1/5,,3407,0,99,508,,2801,3408,0,0,150,150,3558,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,2,2020/1/6,2020/1/12,,2954,0,109,266,,1735,2110,0,0,184,184,2294,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,3,2020/1/13,2020/1/19,,2383,0,79,111,,923,1113,0,0,154,154,1267,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,4,2020/1/20,2020/1/26,,2135,0,56,97,,552,705,0,0,131,131,836,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,5,2020/1/27,2020/2/2,,2183,0,77,50,,514,641,0,0,180,180,821,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,6,2020/2/3,2020/2/9,,2161,0,88,40,,423,551,0,0,188,188,739,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,7,2020/2/10,2020/2/16,,2264,0,81,32,,405,518,0,0,201,201,719,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,8,2020/2/17,2020/2/23,,2010,0,57,41,,372,470,0,0,237,237,707,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,9,2020/2/24,2020/3/1,,2666,0,82,15,,374,471,0,0,280,280,751,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,10,2020/3/2,2020/3/8,,3028,0,85,16,,330,431,0,0,374,374,805,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,11,2020/3/9,2020/3/15,,5161,0,110,29,,266,405,0,0,291,291,696,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,12,2020/3/16,2020/3/22,,2661,0,47,1,,248,296,0,0,206,206,502,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,13,2020/3/23,2020/3/29,,1874,0,6,3,,80,89,0,0,87,87,176,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,14,2020/3/30,2020/4/5,,1646,0,2,2,,50,54,0,0,31,31,85,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,15,2020/4/6,2020/4/12,,1209,0,1,0,,17,18,0,0,11,11,29,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,16,2020/4/13,2020/4/19,,1042,0,1,0,,1,2,0,0,6,6,8,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,17,2020/4/20,2020/4/26,,1136,0,0,3,,9,12,0,0,14,14,26,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,18,2020/4/27,2020/5/3,,1245,0,0,1,,1,2,0,0,1,1,3,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,19,2020/5/4,2020/5/10,,1124,0,0,0,,0,0,0,0,0,0,0,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,20,2020/5/11,2020/5/17,,992,0,0,0,,0,0,0,0,1,1,1,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,21,2020/5/18,2020/5/24,,910,0,0,0,,0,0,0,0,0,0,0,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,22,2020/5/25,2020/5/31,,899,0,0,0,,0,0,0,0,1,1,1,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,23,2020/6/1,2020/6/7,,827,0,0,1,,1,2,0,0,0,0,2,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,24,2020/6/8,2020/6/14,,858,0,0,0,,0,0,0,0,0,0,0,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,25,2020/6/15,2020/6/21,,784,0,0,0,,0,0,0,0,0,0,0,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,26,2020/6/22,2020/6/28,,850,0,0,0,,0,0,0,0,0,0,0,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,27,2020/6/29,2020/7/5,,787,0,0,0,,1,1,0,0,0,0,1,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,28,2020/7/6,2020/7/12,,833,0,0,0,,0,0,0,0,0,0,0,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,29,2020/7/13,2020/7/19,,770,0,1,0,,0,1,0,0,1,1,2,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,30,2020/7/20,2020/7/26,,717,0,0,0,,0,0,0,0,0,0,0,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,31,2020/7/27,2020/8/2,,753,0,0,0,,0,0,0,0,0,0,0,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,32,2020/8/3,2020/8/9,,726,0,0,0,,1,1,0,0,1,1,2,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,33,2020/8/10,2020/8/16,,656,0,1,0,,0,1,0,0,0,0,1,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,34,2020/8/17,2020/8/23,,785,0,1,0,,0,1,0,0,0,0,1,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,35,2020/8/24,2020/8/30,,837,0,0,0,,0,0,0,0,2,2,2,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,36,2020/8/31,2020/9/6,,832,0,0,0,,0,0,0,0,1,1,1,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,37,2020/9/7,2020/9/13,,807,0,0,1,,5,6,0,0,2,2,8,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,38,2020/9/14,2020/9/20,,725,0,0,0,,1,1,0,0,1,1,2,,No Report
+United Kingdom of Great Britain and Northern Ireland,European Region of WHO,Northern Europe,2020,39,2020/9/21,2020/9/27,,127,0,0,0,,0,0,0,0,0,0,0,,No Report
+China,Western Pacific Region of WHO,Eastern Asia,2015,1,2014/12/29,2015/1/4,13282,8370,0,9,1985,0,6,2000,356,3,41,400,2400,,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,2,2015/1/5,2015/1/11,14001,10194,0,25,2620,0,6,2651,635,13,15,663,3314,,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,3,2015/1/12,2015/1/18,14681,11088,0,17,2394,0,4,2415,828,14,62,904,3319,,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,4,2015/1/19,2015/1/25,15738,11085,0,16,2657,0,16,2690,890,22,69,981,3671,,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,5,2015/1/26,2015/2/1,16217,10487,0,24,2747,0,3,2774,833,36,69,938,3712,,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,6,2015/2/2,2015/2/8,15712,9912,0,15,2240,0,1,2256,793,16,109,918,3174,,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,7,2015/2/9,2015/2/15,15807,9588,0,10,1674,0,1,1685,831,24,131,986,2671,,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,8,2015/2/16,2015/2/22,12114,7481,0,13,1267,0,0,1280,675,14,93,782,2062,,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,9,2015/2/23,2015/3/1,14534,9067,0,21,1302,0,3,1327,837,22,121,980,2307,,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,10,2015/3/2,2015/3/8,14971,10513,0,43,1057,0,0,1100,833,20,115,968,2068,,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,11,2015/3/9,2015/3/15,14689,10182,0,35,917,0,0,952,1005,26,144,1175,2127,,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,12,2015/3/16,2015/3/22,14847,9276,0,26,770,0,0,796,877,27,230,1134,1930,,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,13,2015/3/23,2015/3/29,14213,8803,0,17,587,0,1,605,844,23,251,1118,1723,,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,14,2015/3/30,2015/4/5,12127,8804,0,13,369,0,3,385,788,21,148,957,1342,,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,15,2015/4/6,2015/4/12,11753,7012,0,20,427,0,0,447,524,35,70,629,1076,,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,16,2015/4/13,2015/4/19,10808,6340,0,8,273,0,0,281,431,20,100,551,832,,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,17,2015/4/20,2015/4/26,10996,7792,0,9,314,0,0,323,495,17,77,589,912,,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,18,2015/4/27,2015/5/3,10446,7348,0,24,270,0,2,296,354,25,79,458,754,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2015,19,2015/5/4,2015/5/10,10994,7622,0,19,261,0,2,282,350,26,53,429,711,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2015,20,2015/5/11,2015/5/17,10453,7087,0,17,269,0,0,286,272,14,50,336,622,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2015,21,2015/5/18,2015/5/24,10201,6631,0,17,370,0,3,390,179,16,61,256,646,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2015,22,2015/5/25,2015/5/31,9712,5913,0,12,452,0,2,466,154,8,30,192,658,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2015,23,2015/6/1,2015/6/7,10730,7044,0,5,854,0,0,859,179,6,24,209,1068,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2015,24,2015/6/8,2015/6/14,11306,6989,0,13,1275,0,0,1288,164,10,27,201,1489,,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,25,2015/6/15,2015/6/21,10510,6352,0,13,1662,0,1,1676,162,4,22,188,1864,,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,26,2015/6/22,2015/6/28,10918,5754,0,12,1809,0,0,1821,125,6,25,156,1977,,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,27,2015/6/29,2015/7/5,10787,10361,0,24,2075,0,7,2106,168,4,39,211,2317,2832,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,28,2015/7/6,2015/7/12,10690,9973,0,20,1793,0,3,1816,135,0,34,169,1985,2742,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,29,2015/7/13,2015/7/19,10009,9102,0,11,1511,0,16,1538,76,7,60,143,1681,2710,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,30,2015/7/20,2015/7/26,9891,9295,0,4,1526,0,5,1535,110,2,26,138,1673,2500,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,31,2015/7/27,2015/8/2,9509,8660,0,4,1474,0,12,1490,86,4,38,128,1618,2606,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,32,2015/8/3,2015/8/9,9969,9392,0,8,1263,0,1,1272,84,3,21,108,1380,2703,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,33,2015/8/10,2015/8/16,9777,9051,0,4,1048,0,2,1054,87,1,27,115,1169,2729,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,34,2015/8/17,2015/8/23,9166,8173,0,2,895,0,0,897,70,2,27,99,996,2455,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,35,2015/8/24,2015/8/30,9581,9000,0,7,840,0,0,847,57,1,27,85,932,2623,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,36,2015/8/31,2015/9/6,8652,7763,0,3,553,0,1,557,32,0,24,56,613,2436,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2015,37,2015/9/7,2015/9/13,9604,8960,0,0,490,0,0,490,51,1,9,61,551,2601,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2015,38,2015/9/14,2015/9/20,9883,8794,0,3,315,0,1,319,34,2,16,52,371,2870,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2015,39,2015/9/21,2015/9/27,9693,9013,0,2,211,0,0,213,35,1,10,46,259,2793,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2015,40,2015/9/28,2015/10/4,9991,8707,0,3,153,0,0,156,31,3,11,45,201,2641,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2015,41,2015/10/5,2015/10/11,11826,11173,0,7,171,0,0,178,33,3,15,51,229,2681,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2015,42,2015/10/12,2015/10/18,13026,12057,0,2,160,0,0,162,37,0,20,57,219,2722,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2015,43,2015/10/19,2015/10/25,13327,12792,0,10,163,0,0,173,60,4,23,87,260,2864,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2015,44,2015/10/26,2015/11/1,13160,12614,0,7,107,0,2,116,53,10,15,78,194,2877,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2015,45,2015/11/2,2015/11/8,13084,12170,0,4,100,0,1,105,75,8,14,97,202,2881,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2015,46,2015/11/9,2015/11/15,13012,11441,0,13,106,0,0,119,71,6,13,90,209,2764,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2015,47,2015/11/16,2015/11/22,13354,12350,0,19,132,0,0,152,76,15,24,115,267,12077,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2015,48,2015/11/23,2015/11/29,12986,11300,0,36,140,0,0,176,86,24,27,137,313,10979,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2015,49,2015/11/30,2015/12/6,10501,7910,0,28,72,0,0,100,53,7,20,80,180,7716,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2015,50,2015/12/7,2015/12/13,14121,13347,0,139,229,0,3,371,107,54,45,206,577,12756,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2015,51,2015/12/14,2015/12/20,14289,13147,0,260,286,0,0,546,138,72,65,275,821,12315,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2015,52,2015/12/21,2015/12/27,14379,13885,0,378,369,0,2,749,171,151,86,408,1157,12712,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2015,53,2015/12/28,2016/1/3,13852,13059,0,487,400,0,4,891,209,205,114,528,1419,11618,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,1,2016/1/4,2016/1/10,14850,13072,0,1722,512,0,9,2243,229,216,184,629,2872,10175,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,2,2016/1/11,2016/1/17,15077,14659,0,984,667,0,0,1651,271,467,185,923,2574,12070,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,3,2016/1/18,2016/1/24,15705,14938,0,1151,726,0,3,1880,351,610,280,1241,3121,11807,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,4,2016/1/25,2016/1/31,15623,14098,0,1185,617,0,17,1819,259,652,409,1320,3139,10938,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,5,2016/2/1,2016/2/7,13923,11817,0,1223,448,0,20,1691,188,410,475,1073,2764,9020,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,6,2016/2/8,2016/2/14,13636,12187,0,1577,435,0,24,2037,184,465,461,1110,3147,9004,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,7,2016/2/15,2016/2/21,16518,14813,0,1716,559,0,14,2289,265,764,673,1702,3991,10777,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,8,2016/2/22,2016/2/28,16784,15815,0,1836,489,0,24,2349,377,1054,671,2102,4451,11325,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,9,2016/2/29,2016/3/6,17011,15186,0,1620,381,0,3,2004,304,1191,994,2489,4493,10660,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,10,2016/3/7,2016/3/13,16502,14681,0,1337,248,0,11,1596,330,1540,1095,2965,4561,10089,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,11,2016/3/14,2016/3/20,16875,16470,0,1232,217,0,0,1450,384,2388,922,3694,5144,11317,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,12,2016/3/21,2016/3/27,16795,16245,0,1217,189,0,0,1406,342,2288,933,3563,4969,11236,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,13,2016/3/28,2016/4/3,15008,14117,0,926,113,0,4,1043,233,1927,777,2937,3980,10119,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,14,2016/4/4,2016/4/10,12482,11107,0,719,66,0,1,786,151,1178,617,1946,2732,8352,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,15,2016/4/11,2016/4/17,11789,11141,0,709,67,0,0,776,156,1056,419,1631,2407,8710,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,16,2016/4/18,2016/4/24,11603,10500,0,515,57,0,0,573,114,727,430,1271,1844,8632,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,17,2016/4/25,2016/5/1,11047,10083,0,417,47,0,3,467,97,572,423,1092,1559,8509,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,18,2016/5/2,2016/5/8,11061,10034,0,299,34,0,0,333,76,456,269,801,1134,8876,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,19,2016/5/9,2016/5/15,10563,9628,0,182,25,0,1,208,88,344,206,638,846,8768,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,20,2016/5/16,2016/5/22,11512,10682,0,163,24,0,0,187,83,280,233,596,783,9872,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,21,2016/5/23,2016/5/29,10786,10236,0,87,23,0,0,110,89,293,106,488,598,9614,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2016,22,2016/5/30,2016/6/5,10736,9538,0,69,32,0,1,102,55,184,67,306,408,9116,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2016,23,2016/6/6,2016/6/12,10224,9694,0,57,17,0,1,75,68,196,54,318,393,9290,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2016,24,2016/6/13,2016/6/19,10170,9104,0,15,41,0,1,57,34,123,34,191,248,8843,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2016,25,2016/6/20,2016/6/26,10374,9415,0,24,56,0,0,80,44,91,33,168,248,9160,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2016,26,2016/6/27,2016/7/3,9647,8683,0,18,113,0,0,131,44,71,47,162,293,8377,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2016,27,2016/7/4,2016/7/10,9993,9180,0,12,83,0,0,95,32,65,29,126,221,8955,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2016,28,2016/7/11,2016/7/17,10055,9169,0,16,97,0,1,114,21,61,25,107,221,8939,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2016,29,2016/7/18,2016/7/24,9905,8938,0,7,129,0,0,136,22,41,28,91,227,8706,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2016,30,2016/7/25,2016/7/31,9723,8802,0,17,122,0,0,139,27,30,28,85,224,8573,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2016,31,2016/8/1,2016/8/7,9910,9320,0,14,151,0,1,166,16,38,17,71,237,9077,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2016,32,2016/8/8,2016/8/14,9743,8780,0,7,171,0,1,179,15,45,11,71,250,8528,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2016,33,2016/8/15,2016/8/21,9334,8457,0,7,209,0,0,216,16,27,12,55,271,8184,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2016,34,2016/8/22,2016/8/28,9746,8819,0,8,369,0,4,381,12,30,15,57,438,8376,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2016,35,2016/8/29,2016/9/4,9733,9185,0,9,383,0,0,392,17,25,11,53,445,8738,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2016,36,2016/9/5,2016/9/11,9808,8566,0,10,431,0,0,441,5,12,6,23,464,8099,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2016,37,2016/9/12,2016/9/18,9858,9724,0,10,767,0,1,778,6,19,10,35,813,8910,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,38,2016/9/19,2016/9/25,10882,10539,0,17,870,0,0,887,6,11,3,20,907,9630,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,39,2016/9/26,2016/10/2,10533,9856,0,4,746,0,1,751,7,12,3,22,773,9083,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,40,2016/10/3,2016/10/9,12062,10812,0,7,807,0,2,816,4,9,4,17,833,9978,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,41,2016/10/10,2016/10/16,12964,11435,0,10,774,0,16,800,5,17,4,26,826,10607,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,42,2016/10/17,2016/10/23,13647,13411,0,4,984,0,3,991,17,13,5,35,1026,12383,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,43,2016/10/24,2016/10/30,13829,13099,0,13,1089,0,11,1113,14,6,7,27,1140,11957,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,44,2016/10/31,2016/11/6,13831,12281,0,4,1112,0,37,1153,13,6,4,23,1176,11100,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,45,2016/11/7,2016/11/13,14130,13402,0,6,1413,0,3,1422,7,11,4,22,1444,11955,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,46,2016/11/14,2016/11/20,14050,12522,0,1,1419,0,24,1444,7,14,7,28,1472,11050,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,47,2016/11/21,2016/11/27,14451,13655,0,13,1519,0,3,1535,11,17,7,35,1570,12079,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,48,2016/11/28,2016/12/4,14143,12690,0,11,1694,0,7,1712,4,14,11,29,1741,10944,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,49,2016/12/5,2016/12/11,14864,13974,0,14,2089,0,1,2104,4,8,5,17,2121,11849,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,50,2016/12/12,2016/12/18,14958,13114,0,30,1986,0,19,2035,6,25,8,39,2074,11037,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,51,2016/12/19,2016/12/25,14761,13205,0,48,2270,0,4,2323,8,16,4,28,2351,10854,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2016,52,2016/12/26,2017/1/1,12592,10038,0,64,1615,0,10,1690,3,19,1,23,1713,8321,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,1,2017/1/2,2017/1/8,15036,14964,0,152,2459,0,0,2618,26,33,2,61,2679,12283,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,2,2017/1/9,2017/1/15,15583,15375,0,184,2297,0,0,2485,28,36,27,91,2576,12792,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,3,2017/1/16,2017/1/22,15619,15160,0,213,2066,0,0,2280,17,27,9,53,2333,12825,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,4,2017/1/23,2017/1/29,13068,12521,0,278,1453,0,0,1736,15,37,12,64,1800,10719,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,5,2017/1/30,2017/2/5,14027,13456,0,318,1437,0,0,1759,18,49,15,82,1841,11610,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,6,2017/2/6,2017/2/12,15039,13950,0,332,1322,0,2,1659,20,47,14,81,1740,12207,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,7,2017/2/13,2017/2/19,14404,12043,0,350,1068,0,0,1420,18,48,17,83,1503,10538,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,8,2017/2/20,2017/2/26,15760,15613,,609,1233,0,6,1849,37,73,15,125,1974,13635,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,9,2017/2/27,2017/3/5,15758,15425,,820,995,0,0,1817,49,133,12,194,2011,13408,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,10,2017/3/6,2017/3/12,15779,15012,,948,791,0,1,1742,62,164,16,242,1984,13024,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,11,2017/3/13,2017/3/19,15513,14185,0,944,589,0,2,1537,61,237,22,320,1857,12319,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,12,2017/3/20,2017/3/26,13112,10227,0,623,363,0,2,988,39,200,21,260,1248,8972,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,13,2017/3/27,2017/4/2,15117,14184,0,906,348,,6,1260,70,332,38,440,1700,12481,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,14,2017/4/3,2017/4/9,11368,10242,0,500,245,,5,751,44,274,34,352,1103,9128,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,15,2017/4/10,2017/4/16,12324,11972,0,580,259,0,0,839,63,316,23,402,1241,10720,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,16,2017/4/17,2017/4/23,10726,9804,0,414,227,0,3,644,49,279,31,359,1003,8784,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,17,2017/4/24,2017/4/30,11323,11136,0,539,294,0,4,837,37,250,44,331,1168,9957,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,18,2017/5/1,2017/5/7,11512,11035,0,447,298,0,1,746,36,251,65,352,1098,9928,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,19,2017/5/8,2017/5/14,12092,11748,0,342,377,0,3,722,37,217,61,315,1037,10702,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,20,2017/5/15,2017/5/21,12077,11708,0,415,496,0,2,913,39,180,41,260,1173,10531,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,21,2017/5/22,2017/5/28,11486,11145,0,293,536,0,3,832,25,146,60,231,1063,10066,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,22,2017/5/29,2017/6/4,11488,11023,0,258,607,0,0,865,17,83,55,155,1020,9992,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,23,2017/6/5,2017/6/11,11861,11391,0,223,603,0,1,827,25,91,31,147,974,10406,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,24,2017/6/12,2017/6/18,11698,11533,0,193,702,0,2,897,28,88,34,150,1047,10470,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,25,2017/6/19,2017/6/25,11490,11207,,167,1007,0,0,1174,20,60,37,117,1291,9907,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,26,2017/6/26,2017/7/2,12101,11868,,223,1726,0,0,1949,47,69,21,137,2086,9772,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,27,2017/7/3,2017/7/9,13507,13329,,234,2512,0,0,2746,25,44,71,140,2886,10427,Widespread Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,28,2017/7/10,2017/7/16,13732,13235,,227,3287,0,2,3516,9,48,90,147,3663,9554,Widespread Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,29,2017/7/17,2017/7/23,13766,13408,,172,3545,0,8,3725,58,48,30,136,3861,9526,Widespread Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,30,2017/7/24,2017/7/30,13501,13195,,112,3399,0,2,3513,50,52,26,128,3641,9544,Widespread Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,31,2017/7/31,2017/8/6,12515,12103,,70,2470,0,0,2540,38,35,19,92,2632,9464,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,32,2017/8/7,2017/8/13,12239,11828,,54,2101,0,5,2160,35,33,23,91,2251,9565,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,33,2017/8/14,2017/8/20,11826,11668,,88,1936,0,1,2025,58,15,19,92,2117,9545,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,34,2017/8/21,2017/8/27,11080,10786,,50,1721,0,0,1771,46,18,34,98,1869,8915,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,35,2017/8/28,2017/9/3,10702,10465,,44,1572,0,2,1618,58,25,15,98,1716,8744,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2017,36,2017/9/4,2017/9/10,10910,10446,,51,1304,0,10,1365,64,28,13,105,1470,8972,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2017,37,2017/9/11,2017/9/17,11499,11066,,37,1320,0,8,1365,81,34,22,137,1502,9558,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2017,38,2017/9/18,2017/9/24,11366,11149,,25,925,0,12,962,99,28,14,141,1103,10039,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2017,39,2017/9/25,2017/10/1,11492,11121,,33,810,0,4,847,77,27,22,126,973,10143,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2017,40,2017/10/2,2017/10/8,10929,10417,,21,495,0,0,516,54,17,15,86,602,9807,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2017,41,2017/10/9,2017/10/15,14402,14032,,21,721,0,0,742,98,46,14,158,900,13126,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2017,42,2017/10/16,2017/10/22,14363,13913,,26,638,0,4,668,148,41,25,214,882,13026,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2017,43,2017/10/23,2017/10/29,14383,14167,,45,559,0,0,604,250,52,25,327,931,13233,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2017,44,2017/10/30,2017/11/5,15045,14412,,41,461,0,1,503,280,82,23,385,888,13520,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2017,45,2017/11/6,2017/11/12,14861,14435,,78,408,0,16,502,430,127,50,607,1109,13315,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2017,46,2017/11/13,2017/11/19,14831,14396,,87,386,0,0,473,561,165,45,771,1244,13142,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2017,47,2017/11/20,2017/11/26,14989,14487,,186,423,0,5,614,779,201,69,1049,1663,12808,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2017,48,2017/11/27,2017/12/3,15866,15602,,315,567,0,4,886,1322,312,91,1725,2611,12976,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,49,2017/12/4,2017/12/10,16265,15691,,490,659,0,2,1151,1683,303,124,2110,3261,12420,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,50,2017/12/11,2017/12/17,16951,16461,,783,753,0,1,1537,2264,379,112,2755,4292,12148,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,51,2017/12/18,2017/12/24,16979,16247,,1070,704,0,1,1775,2667,437,144,3248,5023,11187,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2017,52,2017/12/25,2017/12/31,16852,16218,,1363,642,0,0,2005,2697,386,344,3427,5432,10763,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2018,1,2018/1/1,2018/1/7,17260,16737,,1897,649,0,8,2554,2708,386,522,3616,6170,10545,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2018,2,2018/1/8,2018/1/14,18666,18151,,2596,561,0,8,3165,2678,381,625,3684,6849,11277,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2018,3,2018/1/15,2018/1/21,21234,20387,,3142,579,0,0,3721,2505,302,1274,4081,7802,12547,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2018,4,2018/1/22,2018/1/28,20504,20239,,3106,439,0,0,3545,1944,278,1575,3797,7342,12862,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2018,5,2018/1/29,2018/2/4,19700,19359,,2874,338,0,0,3212,1614,191,1438,3243,6455,12865,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2018,6,2018/2/5,2018/2/11,20254,19852,,2710,317,0,8,3035,1344,124,1528,2996,6031,13783,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2018,7,2018/2/12,2018/2/18,17231,16562,,1725,236,0,1,1962,954,74,1818,2846,4808,11738,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2018,8,2018/2/19,2018/2/25,17157,16861,,2024,217,0,8,2249,990,67,1404,2461,4710,12130,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2018,9,2018/2/26,2018/3/4,18208,17806,,1552,171,0,1,1724,749,77,989,1815,3539,14230,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2018,10,2018/3/5,2018/3/11,17480,17341,,1543,155,0,13,1711,741,76,652,1469,3180,14147,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2018,11,2018/3/12,2018/3/18,16724,16347,,1241,113,0,2,1356,560,48,372,980,2336,13997,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2018,12,2018/3/19,2018/3/25,16358,15879,,895,89,0,0,984,391,38,212,641,1625,14235,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2018,13,2018/3/26,2018/4/1,16049,15740,,602,70,0,3,675,272,26,117,415,1090,14626,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2018,14,2018/4/2,2018/4/8,11162,10757,,359,38,0,1,398,124,14,51,189,587,10154,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,15,2018/4/9,2018/4/15,11730,11471,,296,33,0,1,330,114,19,29,162,492,10967,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,16,2018/4/16,2018/4/22,11541,11493,,233,26,0,1,260,69,21,16,106,366,11120,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,17,2018/4/23,2018/4/29,11105,10984,,211,29,0,0,240,47,12,10,69,309,10674,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,18,2018/4/30,2018/5/6,10758,10391,,163,23,0,0,186,32,21,9,62,248,10137,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,19,2018/5/7,2018/5/13,11047,10708,,127,21,0,0,148,33,9,8,50,198,10505,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,20,2018/5/14,2018/5/20,11331,11194,,119,17,0,1,137,15,11,13,39,176,11012,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,21,2018/5/21,2018/5/27,11052,10591,,99,23,0,1,123,10,12,9,31,154,10426,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,22,2018/5/28,2018/6/3,10639,10278,,94,17,0,0,111,29,10,2,41,152,10113,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,23,2018/6/4,2018/6/10,10728,10428,,88,16,0,0,105,8,4,3,15,120,10302,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,24,2018/6/11,2018/6/17,10428,10120,,110,9,0,0,119,7,2,6,15,134,9977,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,25,2018/6/18,2018/6/24,10440,10139,,107,12,0,1,120,24,7,0,31,151,9983,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,26,2018/6/25,2018/7/1,10635,10196,,66,12,0,0,78,7,2,3,12,90,10097,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,27,2018/7/2,2018/7/8,10533,10434,,83,38,0,0,121,20,8,8,36,157,10274,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,28,2018/7/9,2018/7/15,10398,10100,,139,21,0,0,160,8,3,3,14,174,9922,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,29,2018/7/16,2018/7/22,10778,10495,,140,20,0,0,160,8,2,4,14,174,10314,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,30,2018/7/23,2018/7/29,10244,10027,,132,20,0,0,152,1,3,2,6,158,9867,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,31,2018/7/30,2018/8/5,10177,9800,,111,4,0,0,115,2,5,0,7,122,9673,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,32,2018/8/6,2018/8/12,10677,10320,,92,19,0,0,111,3,1,2,6,117,10200,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,33,2018/8/13,2018/8/19,10511,10199,,132,30,0,0,162,6,0,1,7,169,10028,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,34,2018/8/20,2018/8/26,10510,10228,,123,24,0,0,147,2,2,0,4,151,10076,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,35,2018/8/27,2018/9/2,10361,10126,,105,46,0,0,151,0,3,0,3,154,9968,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,36,2018/9/3,2018/9/9,10526,9932,,112,69,0,0,181,2,2,3,7,188,9741,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,37,2018/9/10,2018/9/16,19283,18970,,269,191,0,0,460,2,0,0,2,462,18505,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,38,2018/9/17,2018/9/23,10449,10302,,132,46,0,0,178,3,0,2,5,183,10118,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,39,2018/9/24,2018/9/30,10623,10315,,142,52,0,0,194,2,2,1,5,199,10114,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,40,2018/10/1,2018/10/7,11963,11866,,147,30,0,0,177,4,3,2,9,186,11680,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,41,2018/10/8,2018/10/14,14114,13886,,126,31,0,0,157,3,3,0,6,163,13722,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,42,2018/10/15,2018/10/21,14547,14438,,124,32,0,0,156,2,0,2,4,160,14277,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,43,2018/10/22,2018/10/28,14687,14255,,177,29,0,0,206,7,6,0,13,219,14035,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,44,2018/10/29,2018/11/4,14905,14716,,248,48,0,1,297,11,4,0,15,312,14401,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,45,2018/11/5,2018/11/11,15227,14808,,295,80,0,0,375,5,11,2,18,393,14412,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,46,2018/11/12,2018/11/18,15611,15294,,376,60,0,4,440,8,6,2,16,456,14835,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,47,2018/11/19,2018/11/25,15651,15226,,608,69,0,0,677,4,4,6,14,691,14534,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,48,2018/11/26,2018/12/2,16440,16023,,885,93,0,1,979,8,10,8,26,1005,15010,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,49,2018/12/3,2018/12/9,16862,16446,,1049,149,0,2,1200,5,4,3,12,1212,15228,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2018,50,2018/12/10,2018/12/16,16922,16376,,1434,171,0,2,1607,8,15,3,26,1633,14737,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2018,51,2018/12/17,2018/12/23,18226,17880,,2431,312,0,2,2745,2,19,4,25,2770,15099,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2018,52,2018/12/24,2018/12/30,18401,17534,,3090,462,0,2,3554,2,17,2,21,3575,13951,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,1,2018/12/31,2019/1/6,18742,18134,,4153,642,,1,4796,6,27,4,37,4833,4849,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,2,2019/1/7,2019/1/13,21516,21126,,6128,938,0,7,7073,7,44,15,66,7139,13988,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,3,2019/1/14,2019/1/20,22271,21809,,7144,1183,0,17,8344,2,62,18,82,8426,13387,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,4,2019/1/21,2019/1/27,22232,21729,,6519,1205,0,20,7744,1,75,12,88,7832,13905,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,5,2019/1/28,2019/2/3,19427,18874,,5093,1117,0,29,6239,3,73,27,103,6342,12530,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,6,2019/2/4,2019/2/10,14921,14569,,3021,883,0,1,3905,9,84,8,101,4006,10564,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,7,2019/2/11,2019/2/17,18486,18251,,3590,1098,0,0,4688,11,148,15,174,4862,13391,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,8,2019/2/18,2019/2/24,17908,17397,,2871,1083,0,0,3954,11,185,21,217,4171,13224,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,9,2019/2/25,2019/3/3,18088,17766,,2569,1414,0,5,3988,18,370,23,411,4399,13363,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,10,2019/3/4,2019/3/10,17968,17555,,2035,1570,0,0,3605,8,772,36,816,4421,13131,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,11,2019/3/11,2019/3/17,17770,17445,,1517,1597,0,1,3115,35,1280,34,1349,4464,13243,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,12,2019/3/18,2019/3/24,18288,17967,,1001,1312,0,2,2315,32,1742,39,1813,4128,13836,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,13,2019/3/25,2019/3/31,17707,17401,,633,1176,0,8,1817,41,2077,92,2210,4027,13372,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,14,2019/4/1,2019/4/7,11603,10532,,298,558,0,1,857,8,1053,62,1123,1980,8551,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,15,2019/4/8,2019/4/14,14405,14342,,238,584,0,0,822,25,1776,73,1874,2696,11644,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,16,2019/4/15,2019/4/21,13687,13561,,183,460,0,0,643,15,1702,70,1787,2430,11124,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,17,2019/4/22,2019/4/28,12517,12153,,118,398,0,2,518,16,1483,127,1626,2144,10006,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,18,2019/4/29,2019/5/5,11665,11411,,112,273,0,0,385,6,1073,131,1210,1595,9816,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,19,2019/5/6,2019/5/12,12744,12392,,79,229,0,0,308,11,1226,91,1328,1636,10751,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,20,2019/5/13,2019/5/19,12850,12829,,79,245,0,0,324,13,1236,202,1451,1775,11053,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,21,2019/5/20,2019/5/26,12613,12572,,94,232,0,0,326,7,1138,192,1337,1663,10905,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,22,2019/5/27,2019/6/2,11926,11716,,53,167,0,0,220,9,971,143,1123,1343,10364,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2019,23,2019/6/3,2019/6/9,11299,10967,,52,189,0,0,241,2,814,137,953,1194,9769,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,24,2019/6/10,2019/6/16,10673,9833,,74,187,0,0,261,0,426,173,599,860,8969,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,25,2019/6/17,2019/6/23,13195,12122,,120,216,0,0,336,6,625,152,783,1119,11001,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,26,2019/6/24,2019/6/30,12739,11927,,141,246,0,0,387,8,531,137,676,1063,10858,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,27,2019/7/1,2019/7/7,12075,11419,,163,259,0,0,422,7,446,168,621,1043,10373,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,28,2019/7/8,2019/7/14,12110,11450,,183,263,0,0,446,7,408,132,547,993,10450,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,29,2019/7/15,2019/7/21,12343,11635,,176,264,0,0,440,2,372,104,478,918,10713,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,30,2019/7/22,2019/7/28,11756,11129,,136,290,0,0,426,1,354,70,425,851,10273,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,31,2019/7/29,2019/8/4,11309,10733,,86,299,0,0,385,3,291,36,330,715,10013,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,32,2019/8/5,2019/8/11,11678,10911,,55,319,0,0,374,0,274,20,294,668,10238,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,33,2019/8/12,2019/8/18,11471,10752,,58,259,0,0,320,2,211,17,230,550,10201,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,34,2019/8/19,2019/8/25,10016,8856,,49,163,0,0,212,1,136,5,142,354,8496,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,35,2019/8/26,2019/9/1,11081,10449,,72,209,0,0,284,0,135,6,141,425,10022,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,36,2019/9/2,2019/9/8,10430,9137,,80,199,0,0,279,0,92,6,98,377,8758,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,37,2019/9/9,2019/9/15,4127,4127,,47,76,,,123,0,8,2,10,133,3991,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,38,2019/9/16,2019/9/22,5345,5345,,56,80,,,136,0,11,6,17,153,5190,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,39,2019/9/23,2019/9/29,4904,4904,,25,49,,,74,0,14,8,22,96,4807,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,40,2019/9/30,2019/10/6,13003,12407,,51,125,,,192,3,77,2,82,274,4698,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,41,2019/10/7,2019/10/13,4317,14807,,54,175,,,229,0,69,10,79,308,4256,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,42,2019/10/14,2019/10/20,15466,14283,,53,229,,,282,3,67,2,72,354,4231,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,43,2019/10/21,2019/10/27,16376,15267,,73,262,,,335,2,98,9,109,444,4658,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,44,2019/10/28,2019/11/3,16371,15243,,55,395,,,450,0,90,8,98,548,4593,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,45,2019/11/4,2019/11/10,16904,15531,,68,471,,,539,2,132,8,142,681,4699,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,46,2019/11/11,2019/11/17,16953,15686,,82,597,,,679,3,142,1,146,825,4653,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,47,2019/11/18,2019/11/24,18199,16070,,86,913,,,999,2,251,2,255,1254,4698,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,48,2019/11/25,2019/12/1,16467,13395,,93,827,,,920,5,226,1,232,1152,4708,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,49,2019/12/2,2019/12/8,21032,16760,,137,2027,,,2164,1,545,5,551,2715,4683,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,50,2019/12/9,2019/12/15,25307,18799,,194,3240,,,3435,3,848,35,886,4321,5527,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,51,2019/12/16,2019/12/22,5974,19335,,371,4029,,,4402,3,1204,33,1240,5642,5680,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2019,52,2019/12/23,2019/12/29,26570,18812,,479,4506,,,4985,1,1399,30,1430,6415,5000,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,1,2019/12/30,2020/1/5,22782,19056,,688,4518,,,5206,1,1578,20,1599,6805,5106,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2020,2,2020/1/6,2020/1/12,22484,20244,,1271,4081,,,5352,8,1707,38,1753,7105,5681,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2020,3,2020/1/13,2020/1/19,20519,19324,,1444,2941,,,4386,8,1719,62,1789,6175,5179,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2020,4,2020/1/20,2020/1/26,18936,17974,,1644,1933,,,3578,10,1465,75,1550,5128,5109,Regional Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2020,5,2020/1/27,2020/2/2,16301,15541,,1260,895,,,2155,15,919,52,986,3141,6062,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2020,6,2020/2/3,2020/2/9,14252,13497,,426,355,,,783,2,447,26,475,1258,5324,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,7,2020/2/10,2020/2/16,4965,11381,,144,158,,,302,0,133,8,141,443,4861,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,8,2020/2/17,2020/2/23,5664,12727,,66,91,,,157,3,51,5,59,216,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,9,2020/2/24,2020/3/1,4966,11111,,48,73,,,121,1,25,3,29,150,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,10,2020/3/2,2020/3/8,4212,12293,,41,31,,,73,2,27,1,30,103,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,11,2020/3/9,2020/3/15,4461,13115,,43,39,,,82,1,37,7,45,127,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,12,2020/3/16,2020/3/22,15161,15029,,41,41,,1,83,0,46,4,50,133,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,13,2020/3/23,2020/3/29,13835,13473,,24,26,,,50,0,21,2,23,73,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,14,2020/3/30,2020/4/5,8705,7975,,9,8,,,17,1,8,2,11,28,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,15,2020/4/6,2020/4/12,9377,8323,,7,10,,,17,1,3,2,6,23,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,16,2020/4/13,2020/4/19,9104,6599,,2,4,,,6,0,1,0,1,7,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,17,2020/4/20,2020/4/26,9035,8250,,0,3,,1,4,1,2,1,4,8,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,18,2020/4/27,2020/5/3,8161,7187,,0,0,,,0,0,0,0,0,0,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,19,2020/5/4,2020/5/10,8985,8253,,2,3,,,5,1,1,0,2,7,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,20,2020/5/11,2020/5/17,9443,8145,,1,2,,,3,0,4,0,4,7,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,21,2020/5/18,2020/5/24,8530,6984,,0,0,,,0,0,0,0,0,0,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,22,2020/5/25,2020/5/31,1869,6758,,0,1,,,1,0,0,0,0,1,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,23,2020/6/1,2020/6/7,2230,8449,,0,0,,,0,0,0,0,0,0,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,24,2020/6/8,2020/6/14,2101,7645,,3,6,,,9,0,7,0,7,16,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,25,2020/6/15,2020/6/21,9300,8365,,3,0,,,3,0,1,0,1,4,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,26,2020/6/22,2020/6/28,8764,7896,,0,0,,,0,0,0,0,0,0,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,27,2020/6/29,2020/7/5,8660,7927,,0,0,,,0,0,0,0,0,0,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,28,2020/7/6,2020/7/12,9701,8833,,1,0,,,1,0,0,0,0,1,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,29,2020/7/13,2020/7/19,9739,8888,,4,0,,,4,0,0,0,0,4,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,30,2020/7/20,2020/7/26,9173,8348,,1,7,,,8,0,0,0,0,8,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,31,2020/7/27,2020/8/2,8910,8279,,1,2,,,3,0,1,0,1,4,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,32,2020/8/3,2020/8/9,8791,8647,,0,0,,,0,0,0,0,0,0,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,33,2020/8/10,2020/8/16,8633,8498,,0,0,,,0,0,2,0,2,2,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,34,2020/8/17,2020/8/23,8774,8618,,0,1,,,1,0,1,0,1,2,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,35,2020/8/24,2020/8/30,8509,8231,,0,0,,,0,0,1,0,1,1,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,36,2020/8/31,2020/9/6,8606,7814,,0,0,,,0,1,2,0,3,3,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,37,2020/9/7,2020/9/13,8119,6665,,0,0,,,0,0,3,0,3,3,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,38,2020/9/14,2020/9/20,8660,7592,,0,0,,,0,0,2,0,2,2,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,39,2020/9/21,2020/9/27,8276,6668,,0,0,,,0,0,1,0,1,1,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,40,2020/9/28,2020/10/4,10104,9118,,1,0,,1,2,0,3,1,4,6,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,41,2020/10/5,2020/10/11,10068,8691,,0,0,,,0,0,2,0,2,2,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,42,2020/10/12,2020/10/18,11897,9892,,1,4,,,5,0,0,0,0,5,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,43,2020/10/19,2020/10/25,12076,10305,,0,1,,1,2,0,4,2,6,8,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,44,2020/10/26,2020/11/1,12232,10178,,2,1,,,3,1,4,1,6,9,,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2020,45,2020/11/2,2020/11/8,12785,10639,,0,1,,,1,0,2,2,4,5,,Sporadic
+China,Western Pacific Region of WHO,Eastern Asia,2020,46,2020/11/9,2020/11/15,12506,10406,,0,1,,,1,0,14,0,14,15,,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2020,47,2020/11/16,2020/11/22,11146,9317,,,2,,1,3,,9,,9,12,,Local Outbreak
+China,Western Pacific Region of WHO,Eastern Asia,2020,48,2020/11/23,2020/11/29,,,,,,,,,,,,,,,No Report
